@@ -840,7 +840,10 @@ This alignment with ITC Guidelines ensures that the OPQ32 meets the highest inte
 
 ---
 
-**Navigation:**
-- [← Previous Chapter: Chapter 8 - Thurstonian IRT Breakthrough](08-thurstonian-irt.html)
-- [Next Chapter: Chapter 10 - Cognitive Ability and the g Factor →](../verify/10-cognitive-ability.html)
-- [Back to Home](index.html)
+## Chapter Navigation
+
+[← Previous: Chapter 8 - Thurstonian IRT Breakthrough](/psychometric-guide/chapters/08-thurstonian-irt/)
+
+[Next: Chapter 10 - Verify Suite Overview →](/psychometric-guide/chapters/10-verify-overview/)
+
+[↑ Back to Home](/psychometric-guide/)

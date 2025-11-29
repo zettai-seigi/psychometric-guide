@@ -301,7 +301,14 @@ Consider two candidates taking a Verify Numerical Reasoning test:
 
 ---
 
-## Chapter 25: IRT Scoring Deep Dive
+## Chapter Navigation
+
+[← Previous: Chapter 24 - Classical Test Theory vs Item Response Theory](/psychometric-guide/chapters/24-ctt-vs-irt/)
+
+[Next: Chapter 26 - Normative Data Strategies →](/psychometric-guide/chapters/26-normative-data/)
+
+[↑ Back to Home](/psychometric-guide/)
+
 
 ### Learning Objectives
 

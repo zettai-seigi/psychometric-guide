@@ -779,4 +779,10 @@ For practitioners using UCF-based reports, understanding the decoding architectu
 
 ---
 
+## Chapter Navigation
 
+[← Previous: Chapter 22 - Tier 3 - The 112 Components](/psychometric-guide/chapters/22-112-components/)
+
+[Next: Chapter 24 - Classical Test Theory vs Item Response Theory →](/psychometric-guide/chapters/24-ctt-vs-irt/)
+
+[↑ Back to Home](/psychometric-guide/)

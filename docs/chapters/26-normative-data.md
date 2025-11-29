@@ -309,7 +309,14 @@ This transparency allows users to evaluate the relevance and stability of the no
 
 ---
 
-## Chapter 26: Normative Data Strategies
+## Chapter Navigation
+
+[← Previous: Chapter 25 - IRT Scoring Deep Dive](/psychometric-guide/chapters/25-irt-deep-dive/)
+
+[Next: Chapter 27 - Validity and Reliability Evidence →](/psychometric-guide/chapters/27-validity/)
+
+[↑ Back to Home](/psychometric-guide/)
+
 
 ### Learning Objectives
 

@@ -334,7 +334,14 @@ This process preserves psychometric rigor while accommodating organizational uni
 
 ---
 
-## Chapter 22: Tier 3 - The 112 Components
+## Chapter Navigation
+
+[← Previous: Chapter 21 - Tier 2 - The 20 Dimensions](/psychometric-guide/chapters/21-20-dimensions/)
+
+[Next: Chapter 23 - UCF as Translation Engine →](/psychometric-guide/chapters/23-ucf-engine/)
+
+[↑ Back to Home](/psychometric-guide/)
+
 
 ### Learning Objectives
 

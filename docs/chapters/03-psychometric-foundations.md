@@ -426,7 +426,10 @@ The psychometric rigor of IRT-based assessment is particularly critical in high-
 
 ---
 
-**Navigation:**
-- [← Previous Chapter: Chapter 2 - Assessment Framework Structure](02-framework-structure.html)
-- [Next Chapter: Chapter 4 - OPQ32 Origins and Work-Focused Design →](04-opq32-origins.html)
-- [Back to Home](index.html)
+## Chapter Navigation
+
+[← Previous: Chapter 2 - Assessment Framework Structure](/psychometric-guide/chapters/02-framework-structure/)
+
+[Next: Chapter 4 - OPQ32 Origins and Work-Focused Design →](/psychometric-guide/chapters/04-opq32-origins/)
+
+[↑ Back to Home](/psychometric-guide/)

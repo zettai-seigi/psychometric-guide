@@ -701,3 +701,13 @@ The future belongs to adaptive testing enhanced by emerging technologies (AI, ga
 ---
 
 *This chapter demonstrates that cognitive assessment competition centers on design philosophy and implementation approach rather than fundamental quality differences, with adaptive testing representing the clear technological standard for modern practice.*
+
+---
+
+## Chapter Navigation
+
+[← Previous: Chapter 30 - Personality Comparison](/psychometric-guide/chapters/30-personality-comparison/)
+
+[Next: Chapter 32 - Motivation and Framework Comparison →](/psychometric-guide/chapters/32-framework-comparison/)
+
+[↑ Back to Home](/psychometric-guide/)

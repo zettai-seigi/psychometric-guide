@@ -1448,7 +1448,10 @@ While Hogan HPI provides strong competition with comparable validity and faster 
 
 ---
 
-**Navigation:**
-- [← Previous Chapter: Chapter 3 - Psychometric Foundations](03-psychometric-foundations.html)
-- [Next Chapter: Chapter 5 - The 32 Traits and Three Domains →](05-32-traits-domains.html)
-- [Back to Home](index.html)
+## Chapter Navigation
+
+[← Previous: Chapter 3 - Psychometric Foundations](/psychometric-guide/chapters/03-psychometric-foundations/)
+
+[Next: Chapter 5 - The 32 Traits and Three Domains →](/psychometric-guide/chapters/05-32-traits-domains/)
+
+[↑ Back to Home](/psychometric-guide/)

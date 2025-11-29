@@ -1389,3 +1389,13 @@ The integration of ability scores into the UCR transforms it from a **personalit
 - **Case studies illustrate UCR use in real-world selection and development decisions**
 - **Ability score integration demonstrates the critical role of capacity alongside personality preference**
 - **The DNV Logic and Penalty Function ensure realistic predictions when desire and capacity misalign**
+
+---
+
+## Chapter Navigation
+
+[← Previous: Chapter 33 - Automated Report Architecture](/psychometric-guide/chapters/33-report-architecture/)
+
+[Next: Chapter 35 - Specialized Report Types →](/psychometric-guide/chapters/35-specialized-reports/)
+
+[↑ Back to Home](/psychometric-guide/)

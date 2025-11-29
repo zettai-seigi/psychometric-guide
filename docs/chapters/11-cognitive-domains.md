@@ -582,5 +582,8 @@ This dual-level scoring provides both breadth (overall cognitive ability) and de
 
 ## Chapter Navigation
 
-[Previous: Chapter 10 - Verify Suite Overview](/docs/chapters/10-verify-overview.html){: .btn .btn-outline }
-[Next: Chapter 12 - Item Response Theory in Verify](/docs/chapters/12-irt-verify.html){: .btn .btn-outline }
+[← Previous: Chapter 10 - Verify Suite Overview](/psychometric-guide/chapters/10-verify-overview/)
+
+[Next: Chapter 12 - IRT Implementation in Verify →](/psychometric-guide/chapters/12-irt-verify/)
+
+[↑ Back to Home](/psychometric-guide/)

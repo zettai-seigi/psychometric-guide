@@ -4284,3 +4284,13 @@ END IF
 - Automated systems offer consistency, depth, speed, and scalability advantages while maintaining human oversight
 - Continuous refinement using outcome data improves prediction accuracy over time
 - Hybrid model combining automated consistency with expert review for complex cases represents best practice
+
+---
+
+## Chapter Navigation
+
+[← Previous: Chapter 32 - Motivation and Framework Comparison](/psychometric-guide/chapters/32-framework-comparison/)
+
+[Next: Chapter 34 - Universal Competency Report →](/psychometric-guide/chapters/34-ucr/)
+
+[↑ Back to Home](/psychometric-guide/)

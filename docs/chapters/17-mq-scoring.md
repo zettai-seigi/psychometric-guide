@@ -815,5 +815,8 @@ Might be flagged as: *High capability, but low leadership motivation—better su
 
 ## Chapter Navigation
 
-[Previous: Chapter 16 - The 18 Motivation Dimensions](16-18-dimensions.html){: .btn .btn-outline }
-[Next: Chapter 18 - MQ in Practice](18-mq-applications.html){: .btn .btn-outline }
+[← Previous: Chapter 16 - The 18 Motivation Dimensions](/psychometric-guide/chapters/16-18-dimensions/)
+
+[Next: Chapter 18 - MQ in Practice →](/psychometric-guide/chapters/18-mq-applications/)
+
+[↑ Back to Home](/psychometric-guide/)

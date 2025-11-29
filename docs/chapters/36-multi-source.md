@@ -381,3 +381,13 @@ This transparency allows organizational psychologists to evaluate the appropriat
 - Weight patterns vary by competency type (cognitive, interpersonal, execution)
 - Continuous validation and refinement improve prediction accuracy over time
 - Transparency in methodology enables professional evaluation and trust
+
+---
+
+## Chapter Navigation
+
+[← Previous: Chapter 35 - Specialized Report Types](/psychometric-guide/chapters/35-specialized-reports/)
+
+[Next: Chapter 37 - Technology Evolution and Future →](/psychometric-guide/chapters/37-technology-future/)
+
+[↑ Back to Home](/psychometric-guide/)

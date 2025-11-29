@@ -399,3 +399,13 @@ In Universal Competency Reports, the Great Eight serve as structural organizing 
 7. **Universal Relevance**: While their relative importance varies by role, all eight factors apply across jobs, industries, and cultures, enabling universal competency language.
 
 8. **Report Organization**: In practice, the Great Eight serve as structural headings under which more specific competencies are organized and discussed.
+
+---
+
+## Chapter Navigation
+
+[← Previous: Chapter 19 - UCF Development and Architecture](/psychometric-guide/chapters/19-ucf-genesis/)
+
+[Next: Chapter 21 - Tier 2 - The 20 Dimensions →](/psychometric-guide/chapters/21-20-dimensions/)
+
+[↑ Back to Home](/psychometric-guide/)

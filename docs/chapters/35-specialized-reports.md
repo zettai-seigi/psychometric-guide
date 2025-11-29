@@ -372,3 +372,13 @@ HiPo reports typically include:
 - Different report types serve different audiences and purposes
 - All reports derive from the same underlying assessment data
 - Report diversity enables comprehensive talent management applications
+
+---
+
+## Chapter Navigation
+
+[← Previous: Chapter 34 - Universal Competency Report](/psychometric-guide/chapters/34-ucr/)
+
+[Next: Chapter 36 - Multi-Source Integration (P+A) →](/psychometric-guide/chapters/36-multi-source/)
+
+[↑ Back to Home](/psychometric-guide/)

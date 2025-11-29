@@ -400,7 +400,14 @@ While the core competency prediction algorithm is based on regression equations 
 
 ---
 
-## Chapter 28: Competency Prediction Algorithms
+## Chapter Navigation
+
+[← Previous: Chapter 27 - Validity and Reliability Evidence](/psychometric-guide/chapters/27-validity/)
+
+[Next: Chapter 29 - Industry Quality Convergence →](/psychometric-guide/chapters/29-industry-convergence/)
+
+[↑ Back to Home](/psychometric-guide/)
+
 
 ### Learning Objectives
 

@@ -334,7 +334,10 @@ This has implications for reassessment intervals and development planning.
 
 ---
 
-**Navigation:**
-- [← Previous Chapter: Chapter 1 - Introduction to SHL Assessment](01-introduction.html)
-- [Next Chapter: Chapter 3 - Psychometric Foundations →](03-psychometric-foundations.html)
-- [Back to Home](index.html)
+## Chapter Navigation
+
+[← Previous: Chapter 1 - Introduction to SHL Assessment](/psychometric-guide/chapters/01-introduction/)
+
+[Next: Chapter 3 - Psychometric Foundations →](/psychometric-guide/chapters/03-psychometric-foundations/)
+
+[↑ Back to Home](/psychometric-guide/)

@@ -670,3 +670,13 @@ The trend is toward **greater automation, integration, and data-driven insights*
 ---
 
 *This chapter demonstrates that competency framework architecture and automation capabilities provide substantial strategic differentiation beyond basic psychometric quality, with framework selection affecting organizational scalability, consistency, and analytics capabilities.*
+
+---
+
+## Chapter Navigation
+
+[← Previous: Chapter 31 - Cognitive Assessment Competition](/psychometric-guide/chapters/31-cognitive-competition/)
+
+[Next: Chapter 33 - Automated Report Architecture →](/psychometric-guide/chapters/33-report-architecture/)
+
+[↑ Back to Home](/psychometric-guide/)

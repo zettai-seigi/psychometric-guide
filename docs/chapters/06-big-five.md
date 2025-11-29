@@ -476,7 +476,10 @@ The evidence for Big Five congruence is extensive and multifaceted. It demonstra
 
 ---
 
-**Navigation:**
-- [← Previous Chapter: Chapter 5 - The 32 Traits and Three Domains](05-32-traits-domains.html)
-- [Next Chapter: Chapter 7 - Forced-Choice Format and Faking Resistance →](07-forced-choice.html)
-- [Back to Home](index.html)
+## Chapter Navigation
+
+[← Previous: Chapter 5 - The 32 Traits and Three Domains](/psychometric-guide/chapters/05-32-traits-domains/)
+
+[Next: Chapter 7 - Forced-Choice Format and Faking Resistance →](/psychometric-guide/chapters/07-forced-choice/)
+
+[↑ Back to Home](/psychometric-guide/)

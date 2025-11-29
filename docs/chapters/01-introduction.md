@@ -851,6 +851,8 @@ Understanding how the OPQ32 differs from clinical personality measures is critic
 
 ---
 
-**Navigation:**
-- [Next Chapter: Chapter 2 - Assessment Framework Structure →](02-framework-structure.html)
-- [Back to Home](index.html)
+## Chapter Navigation
+
+[Next: Chapter 2 - Assessment Framework Structure →](/psychometric-guide/chapters/02-framework-structure/)
+
+[↑ Back to Home](/psychometric-guide/)

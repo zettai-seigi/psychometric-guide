@@ -208,7 +208,14 @@ Consider a numerical reasoning test containing 20 items.
 
 ---
 
-## Chapter 24: Classical Test Theory vs Item Response Theory
+## Chapter Navigation
+
+[← Previous: Chapter 23 - UCF as Translation Engine](/psychometric-guide/chapters/23-ucf-engine/)
+
+[Next: Chapter 25 - IRT Scoring Deep Dive →](/psychometric-guide/chapters/25-irt-deep-dive/)
+
+[↑ Back to Home](/psychometric-guide/)
+
 
 ### Learning Objectives
 

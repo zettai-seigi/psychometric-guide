@@ -373,7 +373,14 @@ Conversely, reducing below 20 dimensions (say, to 12 or 15) loses important diff
 
 ---
 
-## Chapter 21: Tier 2 - The 20 Dimensions
+## Chapter Navigation
+
+[← Previous: Chapter 20 - The Great Eight](/psychometric-guide/chapters/20-great-eight/)
+
+[Next: Chapter 22 - Tier 3 - The 112 Components →](/psychometric-guide/chapters/22-112-components/)
+
+[↑ Back to Home](/psychometric-guide/)
+
 
 ### Learning Objectives
 

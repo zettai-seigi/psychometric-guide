@@ -781,5 +781,8 @@ Research generally finds that well-implemented CAT produces **positive candidate
 
 ## Chapter Navigation
 
-[Previous: Chapter 12 - Item Response Theory in Verify](/docs/chapters/12-irt-verify.html){: .btn .btn-outline }
-[Next: Chapter 14 - Security and Verification](/docs/chapters/14-security.html){: .btn .btn-outline }
+[← Previous: Chapter 12 - Item Response Theory in Verify](/psychometric-guide/chapters/12-irt-verify/)
+
+[Next: Chapter 14 - Security and Verification →](/psychometric-guide/chapters/14-security/)
+
+[↑ Back to Home](/psychometric-guide/)

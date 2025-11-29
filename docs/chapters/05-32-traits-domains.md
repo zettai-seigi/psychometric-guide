@@ -355,7 +355,10 @@ The 32-trait, three-domain structure of the OPQ32 represents a carefully enginee
 
 ---
 
-**Navigation:**
-- [← Previous Chapter: Chapter 4 - OPQ32 Origins and Work-Focused Design](04-opq32-origins.html)
-- [Next Chapter: Chapter 6 - Big Five Congruence and Validation →](06-big-five.html)
-- [Back to Home](index.html)
+## Chapter Navigation
+
+[← Previous: Chapter 4 - OPQ32 Origins and Work-Focused Design](/psychometric-guide/chapters/04-opq32-origins/)
+
+[Next: Chapter 6 - Big Five Congruence and Validation →](/psychometric-guide/chapters/06-big-five/)
+
+[↑ Back to Home](/psychometric-guide/)

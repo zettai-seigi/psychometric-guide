@@ -628,5 +628,8 @@ The 50% efficiency gain is an empirical finding from Verify validation studies, 
 
 ## Chapter Navigation
 
-[Previous: Chapter 11 - Cognitive Domains](/docs/chapters/11-cognitive-domains.html){: .btn .btn-outline }
-[Next: Chapter 13 - Computer Adaptive Testing](/docs/chapters/13-cat.html){: .btn .btn-outline }
+[← Previous: Chapter 11 - Cognitive Domains and the g Factor](/psychometric-guide/chapters/11-cognitive-domains/)
+
+[Next: Chapter 13 - Computer Adaptive Testing →](/psychometric-guide/chapters/13-cat/)
+
+[↑ Back to Home](/psychometric-guide/)

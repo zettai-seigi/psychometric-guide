@@ -330,5 +330,8 @@ These explorations reflect the MQ's commitment to remaining grounded in robust t
 
 ## Chapter Navigation
 
-[Previous: Chapter 14 - Security and Verification](14-security.html){: .btn .btn-outline }
-[Next: Chapter 16 - The 18 Motivation Dimensions](16-18-dimensions.html){: .btn .btn-outline }
+[← Previous: Chapter 14 - Security and Verification](/psychometric-guide/chapters/14-security/)
+
+[Next: Chapter 16 - The 18 Motivation Dimensions →](/psychometric-guide/chapters/16-18-dimensions/)
+
+[↑ Back to Home](/psychometric-guide/)

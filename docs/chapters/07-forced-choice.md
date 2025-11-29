@@ -377,7 +377,10 @@ When using the OPQ32r, it's helpful to explain to candidates:
 
 ---
 
-**Navigation:**
-- [← Previous Chapter: Chapter 6 - Big Five Congruence and Validation](06-big-five.html)
-- [Next Chapter: Chapter 8 - Thurstonian IRT Breakthrough →](08-thurstonian-irt.html)
-- [Back to Home](index.html)
+## Chapter Navigation
+
+[← Previous: Chapter 6 - Big Five Congruence and Validation](/psychometric-guide/chapters/06-big-five/)
+
+[Next: Chapter 8 - Thurstonian IRT Breakthrough →](/psychometric-guide/chapters/08-thurstonian-irt/)
+
+[↑ Back to Home](/psychometric-guide/)

@@ -668,7 +668,10 @@ The OPQ32r represents a milestone, not the end point, of methodological developm
 
 ---
 
-**Navigation:**
-- [← Previous Chapter: Chapter 7 - Forced-Choice Format and Faking Resistance](07-forced-choice.html)
-- [Next Chapter: Chapter 9 - Cross-Cultural Adaptation →](09-cross-cultural.html)
-- [Back to Home](index.html)
+## Chapter Navigation
+
+[← Previous: Chapter 7 - Forced-Choice Format and Faking Resistance](/psychometric-guide/chapters/07-forced-choice/)
+
+[Next: Chapter 9 - Cross-Cultural Adaptation →](/psychometric-guide/chapters/09-cross-cultural/)
+
+[↑ Back to Home](/psychometric-guide/)

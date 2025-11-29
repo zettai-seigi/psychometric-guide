@@ -811,5 +811,8 @@ MQ data informs succession planning by identifying who has both capability AND a
 
 ## Chapter Navigation
 
-[Previous: Chapter 17 - MQ Construction and CTT Scoring](17-mq-scoring.html){: .btn .btn-outline }
-[Next: Part V - Universal Competency Framework](../index.html){: .btn .btn-outline }
+[← Previous: Chapter 17 - MQ Construction and CTT Scoring](/psychometric-guide/chapters/17-mq-scoring/)
+
+[Next: Chapter 19 - UCF Development and Architecture →](/psychometric-guide/chapters/19-ucf-genesis/)
+
+[↑ Back to Home](/psychometric-guide/)

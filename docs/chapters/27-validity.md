@@ -339,7 +339,14 @@ SHL's published validity coefficients align closely with these meta-analytic ben
 
 ---
 
-## Chapter 27: Validity and Reliability
+## Chapter Navigation
+
+[← Previous: Chapter 26 - Normative Data Strategies](/psychometric-guide/chapters/26-normative-data/)
+
+[Next: Chapter 28 - Competency Prediction Algorithms →](/psychometric-guide/chapters/28-algorithms/)
+
+[↑ Back to Home](/psychometric-guide/)
+
 
 ### Learning Objectives
 

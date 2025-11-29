@@ -756,5 +756,8 @@ The MQ aligns with broader work values research, measuring stable preferences ab
 
 ## Chapter Navigation
 
-[Previous: Chapter 15 - MQ Theoretical Foundations](15-mq-foundations.html){: .btn .btn-outline }
-[Next: Chapter 17 - MQ Construction and CTT Scoring](17-mq-scoring.html){: .btn .btn-outline }
+[← Previous: Chapter 15 - MQ Theoretical Foundations](/psychometric-guide/chapters/15-mq-foundations/)
+
+[Next: Chapter 17 - MQ Construction and CTT Scoring →](/psychometric-guide/chapters/17-mq-scoring/)
+
+[↑ Back to Home](/psychometric-guide/)

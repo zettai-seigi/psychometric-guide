@@ -427,5 +427,8 @@ This commitment to continuous validation ensures that Verify remains psychometri
 
 ## Chapter Navigation
 
-[Previous: Chapter 9 - OPQ Applications](/docs/chapters/09-opq-applications.html){: .btn .btn-outline }
-[Next: Chapter 11 - Cognitive Domains](/docs/chapters/11-cognitive-domains.html){: .btn .btn-outline }
+[← Previous: Chapter 9 - Cross-Cultural Adaptation](/psychometric-guide/chapters/09-cross-cultural/)
+
+[Next: Chapter 11 - Cognitive Domains and the g Factor →](/psychometric-guide/chapters/11-cognitive-domains/)
+
+[↑ Back to Home](/psychometric-guide/)
