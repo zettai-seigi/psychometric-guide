@@ -1,0 +1,9 @@
+title: SHL Psychometric Assessment Guide
+description: Complete guide to OPQ32, Verify, MQ, and the Universal Competency Framework
+theme: jekyll-theme-cayman
+remote_theme: pages-themes/cayman@v0.2.0
+markdown: kramdown
+highlighter: rouge
+plugins:
+  - jekyll-remote-theme
+  - jekyll-seo-tag
