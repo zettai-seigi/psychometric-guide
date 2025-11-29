@@ -1,7 +1,8 @@
 ---
 layout: default
 title: "Chapter 8: Thurstonian IRT Breakthrough"
-nav_order: 9
+parent: "Part II: OPQ32 Personality"
+nav_order: 5
 ---
 
 # Chapter 8: Thurstonian IRT Breakthrough

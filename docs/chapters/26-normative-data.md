@@ -1,7 +1,8 @@
 ---
 layout: default
 title: "Chapter 26: Normative Data Strategies"
-nav_order: 27
+parent: "Part VI: Scoring Methodologies"
+nav_order: 3
 ---
 
 # Normative Data Strategies

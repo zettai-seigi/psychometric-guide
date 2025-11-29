@@ -1,7 +1,8 @@
 ---
 layout: default
 title: "Chapter 18: MQ in Practice"
-nav_order: 19
+parent: "Part IV: Motivation Questionnaire"
+nav_order: 4
 ---
 
 # Chapter 18: MQ in Practice

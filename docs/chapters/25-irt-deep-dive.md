@@ -1,7 +1,8 @@
 ---
 layout: default
 title: "Chapter 25: IRT Scoring Deep Dive"
-nav_order: 26
+parent: "Part VI: Scoring Methodologies"
+nav_order: 2
 ---
 
 # IRT Scoring Deep Dive

@@ -1,7 +1,8 @@
 ---
 layout: default
 title: "Chapter 2: Assessment Framework Structure"
-nav_order: 3
+parent: "Part I: Foundations"
+nav_order: 2
 ---
 
 # Chapter 2: The Assessment Framework Structure

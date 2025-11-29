@@ -1,7 +1,8 @@
 ---
 layout: default
 title: "Chapter 29: Industry Quality Convergence"
-nav_order: 30
+parent: "Part VII: Competitive Landscape"
+nav_order: 1
 ---
 
 # Chapter 29: Industry Quality Convergence

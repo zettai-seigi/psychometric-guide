@@ -1,7 +1,8 @@
 ---
 layout: default
 title: "Chapter 17: MQ Construction and CTT Scoring"
-nav_order: 18
+parent: "Part IV: Motivation Questionnaire"
+nav_order: 3
 ---
 
 # Chapter 17: MQ Construction and CTT Scoring

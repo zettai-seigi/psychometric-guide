@@ -1,7 +1,8 @@
 ---
 layout: default
 title: "Chapter 10: Verify Suite Overview"
-nav_order: 11
+parent: "Part III: Verify Ability Tests"
+nav_order: 1
 ---
 
 # Chapter 10: Verify Suite Overview

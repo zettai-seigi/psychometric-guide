@@ -1,7 +1,8 @@
 ---
 layout: default
 title: "Chapter 15: MQ Theoretical Foundations"
-nav_order: 16
+parent: "Part IV: Motivation Questionnaire"
+nav_order: 1
 ---
 
 # Chapter 15: MQ Theoretical Foundations

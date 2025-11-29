@@ -1,7 +1,8 @@
 ---
 layout: default
 title: "Chapter 19: UCF Development and Architecture"
-nav_order: 20
+parent: "Part V: Universal Competency Framework"
+nav_order: 1
 ---
 
 # Chapter 19: UCF Genesis - The Research Foundation

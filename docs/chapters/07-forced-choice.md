@@ -1,7 +1,8 @@
 ---
 layout: default
 title: "Chapter 7: Forced-Choice Format and Faking Resistance"
-nav_order: 8
+parent: "Part II: OPQ32 Personality"
+nav_order: 4
 ---
 
 # Chapter 7: Forced-Choice Format and Faking Resistance

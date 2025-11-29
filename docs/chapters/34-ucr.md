@@ -1,7 +1,8 @@
 ---
 layout: default
 title: "Chapter 34: Universal Competency Report"
-nav_order: 35
+parent: "Part VIII: Reports & Future"
+nav_order: 2
 ---
 
 # Chapter 34: Universal Competency Report (UCR)

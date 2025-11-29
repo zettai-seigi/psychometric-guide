@@ -1,7 +1,8 @@
 ---
 layout: default
 title: "Chapter 9: Cross-Cultural Adaptation"
-nav_order: 10
+parent: "Part II: OPQ32 Personality"
+nav_order: 6
 ---
 
 # Chapter 9: Cross-Cultural Adaptation

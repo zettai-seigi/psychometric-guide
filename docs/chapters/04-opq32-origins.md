@@ -1,7 +1,8 @@
 ---
 layout: default
 title: "Chapter 4: OPQ32 Origins and Work-Focused Design"
-nav_order: 5
+parent: "Part II: OPQ32 Personality"
+nav_order: 1
 ---
 
 # Chapter 4: OPQ32 Origins and Work-Focused Design

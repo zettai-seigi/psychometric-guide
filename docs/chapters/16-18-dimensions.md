@@ -1,7 +1,8 @@
 ---
 layout: default
 title: "Chapter 16: The 18 Motivation Dimensions"
-nav_order: 17
+parent: "Part IV: Motivation Questionnaire"
+nav_order: 2
 ---
 
 # Chapter 16: The 18 Motivation Dimensions

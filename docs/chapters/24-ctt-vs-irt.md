@@ -1,7 +1,8 @@
 ---
 layout: default
 title: "Chapter 24: Classical Test Theory vs Item Response Theory"
-nav_order: 25
+parent: "Part VI: Scoring Methodologies"
+nav_order: 1
 ---
 
 # Classical Test Theory vs Item Response Theory

@@ -1,7 +1,8 @@
 ---
 layout: default
 title: "Chapter 28: Competency Prediction Algorithms"
-nav_order: 29
+parent: "Part VI: Scoring Methodologies"
+nav_order: 5
 ---
 
 # Competency Prediction Algorithms
