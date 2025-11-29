@@ -1,9 +1,37 @@
 title: SHL Psychometric Assessment Guide
-description: Complete guide to OPQ32, Verify, MQ, and the Universal Competency Framework
-theme: jekyll-theme-cayman
-remote_theme: pages-themes/cayman@v0.2.0
-markdown: kramdown
-highlighter: rouge
+description: Complete Guide to OPQ32, Verify, MQ, and the Universal Competency Framework
+baseurl: "/psychometric-guide"
+url: "https://zettai-seigi.github.io"
+
+theme: just-the-docs
+
+color_scheme: light
+
+search_enabled: true
+search.heading_level: 3
+search.previews: 3
+
+heading_anchors: true
+
+nav_sort: case_insensitive
+
+back_to_top: true
+back_to_top_text: "Back to top"
+
+footer_content: "SHL Psychometric Assessment Guide - 2025"
+
 plugins:
-  - jekyll-remote-theme
   - jekyll-seo-tag
+
+kramdown:
+  syntax_highlighter_opts:
+    block:
+      line_numbers: false
+
+compress_html:
+  clippings: all
+  comments: all
+  endings: all
+  startings: []
+  blanklines: false
+  profile: false
