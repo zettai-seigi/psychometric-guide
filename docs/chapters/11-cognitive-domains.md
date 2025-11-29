@@ -3,6 +3,7 @@ layout: default
 title: "Chapter 11: Cognitive Domains and the g Factor"
 parent: "Part III: Verify Ability Tests"
 nav_order: 2
+permalink: /chapters/11-cognitive-domains/
 ---
 
 # Chapter 11: Cognitive Domains and the g Factor

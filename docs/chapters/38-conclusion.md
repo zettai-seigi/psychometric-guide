@@ -3,6 +3,7 @@ layout: default
 title: "Chapter 38: Conclusion"
 parent: "Part VIII: Reports & Future"
 nav_order: 6
+permalink: /chapters/38-conclusion/
 ---
 
 # Chapter 38: Conclusion

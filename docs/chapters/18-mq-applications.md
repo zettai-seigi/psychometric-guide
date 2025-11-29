@@ -3,6 +3,7 @@ layout: default
 title: "Chapter 18: MQ in Practice"
 parent: "Part IV: Motivation Questionnaire"
 nav_order: 4
+permalink: /chapters/18-mq-applications/
 ---
 
 # Chapter 18: MQ in Practice

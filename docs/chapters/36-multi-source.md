@@ -3,6 +3,7 @@ layout: default
 title: "Chapter 36: Multi-Source Integration (P+A)"
 parent: "Part VIII: Reports & Future"
 nav_order: 4
+permalink: /chapters/36-multi-source/
 ---
 
 # Chapter 36: Multi-Source Integration (P+A)

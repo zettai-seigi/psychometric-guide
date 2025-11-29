@@ -3,6 +3,7 @@ layout: default
 title: "Chapter 3: Psychometric Foundations"
 parent: "Part I: Foundations"
 nav_order: 3
+permalink: /chapters/03-psychometric-foundations/
 ---
 
 # Chapter 3: Psychometric Foundations

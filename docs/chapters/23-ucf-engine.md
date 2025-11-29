@@ -3,6 +3,7 @@ layout: default
 title: "Chapter 23: UCF as Translation Engine"
 parent: "Part V: Universal Competency Framework"
 nav_order: 5
+permalink: /chapters/23-ucf-engine/
 ---
 
 # UCF as Decoding Engine

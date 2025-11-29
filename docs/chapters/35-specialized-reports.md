@@ -3,6 +3,7 @@ layout: default
 title: "Chapter 35: Specialized Report Types"
 parent: "Part VIII: Reports & Future"
 nav_order: 3
+permalink: /chapters/35-specialized-reports/
 ---
 
 # Chapter 35: Specialized Report Types

@@ -3,6 +3,7 @@ layout: default
 title: "Chapter 27: Validity and Reliability Evidence"
 parent: "Part VI: Scoring Methodologies"
 nav_order: 4
+permalink: /chapters/27-validity/
 ---
 
 # Validity and Reliability

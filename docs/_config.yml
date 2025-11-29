@@ -3,7 +3,7 @@ description: Complete Guide to OPQ32, Verify, MQ, and the Universal Competency F
 baseurl: "/psychometric-guide"
 url: "https://zettai-seigi.github.io"
 
-theme: just-the-docs
+remote_theme: just-the-docs/just-the-docs
 
 color_scheme: light
 
@@ -14,6 +14,7 @@ search.previews: 3
 heading_anchors: true
 
 nav_sort: case_insensitive
+nav_fold: false
 
 back_to_top: true
 back_to_top_text: "Back to top"
@@ -24,14 +25,16 @@ plugins:
   - jekyll-seo-tag
 
 kramdown:
+  input: GFM
   syntax_highlighter_opts:
     block:
       line_numbers: false
 
-compress_html:
-  clippings: all
-  comments: all
-  endings: all
-  startings: []
-  blanklines: false
-  profile: false
+exclude:
+  - node_modules/
+  - vendor/
+  - .bundle/
+  - .git/
+  - Gemfile
+  - Gemfile.lock
+  - README.md

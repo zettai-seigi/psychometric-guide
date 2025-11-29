@@ -3,6 +3,7 @@ layout: default
 title: "Chapter 5: The 32 Traits and Three Domains"
 parent: "Part II: OPQ32 Personality"
 nav_order: 2
+permalink: /chapters/05-32-traits-domains/
 ---
 
 # Chapter 5: The 32 Traits and Three Domains

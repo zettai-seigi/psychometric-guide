@@ -3,6 +3,7 @@ layout: default
 title: "Chapter 21: Tier 2 - The 20 Dimensions"
 parent: "Part V: Universal Competency Framework"
 nav_order: 3
+permalink: /chapters/21-20-dimensions/
 ---
 
 # Tier 2 - The 20 Dimensions

@@ -3,6 +3,7 @@ layout: default
 title: "Chapter 32: Motivation and Framework Comparison"
 parent: "Part VII: Competitive Landscape"
 nav_order: 4
+permalink: /chapters/32-framework-comparison/
 ---
 
 # Chapter 32: Motivation and Framework Comparison

@@ -3,6 +3,7 @@ layout: default
 title: "Chapter 31: Cognitive Assessment Competition"
 parent: "Part VII: Competitive Landscape"
 nav_order: 3
+permalink: /chapters/31-cognitive-competition/
 ---
 
 # Chapter 31: Cognitive Assessment Competition

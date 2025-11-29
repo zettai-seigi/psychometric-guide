@@ -3,6 +3,7 @@ layout: default
 title: "Chapter 20: Tier 1 - The Great Eight"
 parent: "Part V: Universal Competency Framework"
 nav_order: 2
+permalink: /chapters/20-great-eight/
 ---
 
 # Chapter 20: Tier 1 - The Great Eight

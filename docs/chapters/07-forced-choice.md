@@ -3,6 +3,7 @@ layout: default
 title: "Chapter 7: Forced-Choice Format and Faking Resistance"
 parent: "Part II: OPQ32 Personality"
 nav_order: 4
+permalink: /chapters/07-forced-choice/
 ---
 
 # Chapter 7: Forced-Choice Format and Faking Resistance

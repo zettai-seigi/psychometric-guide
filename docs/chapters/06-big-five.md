@@ -3,6 +3,7 @@ layout: default
 title: "Chapter 6: Big Five Congruence and Validation"
 parent: "Part II: OPQ32 Personality"
 nav_order: 3
+permalink: /chapters/06-big-five/
 ---
 
 # Chapter 6: Big Five Congruence and Validation

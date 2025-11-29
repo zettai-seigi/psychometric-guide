@@ -3,6 +3,7 @@ layout: default
 title: "Chapter 1: Introduction to SHL Assessment"
 parent: "Part I: Foundations"
 nav_order: 1
+permalink: /chapters/01-introduction/
 ---
 
 # Chapter 1: Introduction to SHL Assessment Architecture

@@ -3,6 +3,7 @@ layout: default
 title: "Chapter 12: Item Response Theory in Verify"
 parent: "Part III: Verify Ability Tests"
 nav_order: 3
+permalink: /chapters/12-irt-verify/
 ---
 
 # Chapter 12: Item Response Theory in Verify

@@ -3,6 +3,7 @@ layout: default
 title: "Chapter 22: Tier 3 - The 112 Components"
 parent: "Part V: Universal Competency Framework"
 nav_order: 4
+permalink: /chapters/22-112-components/
 ---
 
 # Tier 3 - The 112 Components

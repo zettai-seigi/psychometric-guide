@@ -3,6 +3,7 @@ layout: default
 title: "Chapter 14: Security and Verification"
 parent: "Part III: Verify Ability Tests"
 nav_order: 5
+permalink: /chapters/14-security/
 ---
 
 # Chapter 14: Security and Verification

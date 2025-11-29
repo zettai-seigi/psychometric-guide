@@ -3,6 +3,7 @@ layout: default
 title: "Chapter 37: Technology Evolution and Future"
 parent: "Part VIII: Reports & Future"
 nav_order: 5
+permalink: /chapters/37-technology-future/
 ---
 
 # Chapter 37: Technology Evolution and Future

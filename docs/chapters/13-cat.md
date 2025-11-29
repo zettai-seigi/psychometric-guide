@@ -3,6 +3,7 @@ layout: default
 title: "Chapter 13: Computer Adaptive Testing"
 parent: "Part III: Verify Ability Tests"
 nav_order: 4
+permalink: /chapters/13-cat/
 ---
 
 # Chapter 13: Computer Adaptive Testing

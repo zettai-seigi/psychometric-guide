@@ -3,6 +3,7 @@ layout: default
 title: "Chapter 33: Automated Report Architecture"
 parent: "Part VIII: Reports & Future"
 nav_order: 1
+permalink: /chapters/33-report-architecture/
 ---
 
 # Chapter 33: Automated Report Architecture

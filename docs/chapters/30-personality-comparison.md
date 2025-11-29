@@ -3,6 +3,7 @@ layout: default
 title: "Chapter 30: Personality Assessment Comparison"
 parent: "Part VII: Competitive Landscape"
 nav_order: 2
+permalink: /chapters/30-personality-comparison/
 ---
 
 # Chapter 30: Personality Assessment Comparison
