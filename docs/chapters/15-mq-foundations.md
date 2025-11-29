@@ -7,15 +7,6 @@ permalink: /chapters/15-mq-foundations/
 ---
 
 # Chapter 15: MQ Theoretical Foundations
-{: .no_toc }
-
-## Table of Contents
-{: .no_toc .text-delta }
-
-1. TOC
-{:toc}
-
----
 
 ## Learning Objectives
 

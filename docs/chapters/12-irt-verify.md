@@ -7,15 +7,6 @@ permalink: /chapters/12-irt-verify/
 ---
 
 # Chapter 12: Item Response Theory in Verify
-{: .no_toc }
-
-## Table of Contents
-{: .no_toc .text-delta }
-
-1. TOC
-{:toc}
-
----
 
 ## Learning Objectives
 

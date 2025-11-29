@@ -7,15 +7,6 @@ permalink: /chapters/10-verify-overview/
 ---
 
 # Chapter 10: Verify Suite Overview
-{: .no_toc }
-
-## Table of Contents
-{: .no_toc .text-delta }
-
-1. TOC
-{:toc}
-
----
 
 ## Learning Objectives
 

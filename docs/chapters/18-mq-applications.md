@@ -7,15 +7,6 @@ permalink: /chapters/18-mq-applications/
 ---
 
 # Chapter 18: MQ in Practice
-{: .no_toc }
-
-## Table of Contents
-{: .no_toc .text-delta }
-
-1. TOC
-{:toc}
-
----
 
 ## Learning Objectives
 

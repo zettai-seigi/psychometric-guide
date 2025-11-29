@@ -7,15 +7,6 @@ permalink: /chapters/16-18-dimensions/
 ---
 
 # Chapter 16: The 18 Motivation Dimensions
-{: .no_toc }
-
-## Table of Contents
-{: .no_toc .text-delta }
-
-1. TOC
-{:toc}
-
----
 
 ## Learning Objectives
 

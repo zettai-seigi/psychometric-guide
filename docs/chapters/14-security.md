@@ -7,15 +7,6 @@ permalink: /chapters/14-security/
 ---
 
 # Chapter 14: Security and Verification
-{: .no_toc }
-
-## Table of Contents
-{: .no_toc .text-delta }
-
-1. TOC
-{:toc}
-
----
 
 ## Learning Objectives
 

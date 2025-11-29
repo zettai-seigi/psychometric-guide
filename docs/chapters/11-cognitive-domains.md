@@ -7,15 +7,6 @@ permalink: /chapters/11-cognitive-domains/
 ---
 
 # Chapter 11: Cognitive Domains and the g Factor
-{: .no_toc }
-
-## Table of Contents
-{: .no_toc .text-delta }
-
-1. TOC
-{:toc}
-
----
 
 ## Learning Objectives
 

@@ -7,15 +7,6 @@ permalink: /chapters/17-mq-scoring/
 ---
 
 # Chapter 17: MQ Construction and CTT Scoring
-{: .no_toc }
-
-## Table of Contents
-{: .no_toc .text-delta }
-
-1. TOC
-{:toc}
-
----
 
 ## Learning Objectives
 

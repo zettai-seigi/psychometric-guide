@@ -7,15 +7,6 @@ permalink: /chapters/13-cat/
 ---
 
 # Chapter 13: Computer Adaptive Testing
-{: .no_toc }
-
-## Table of Contents
-{: .no_toc .text-delta }
-
-1. TOC
-{:toc}
-
----
 
 ## Learning Objectives
 
