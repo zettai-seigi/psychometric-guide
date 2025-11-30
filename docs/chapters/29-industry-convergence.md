@@ -8,14 +8,6 @@ permalink: /chapters/29-industry-convergence/
 
 # Chapter 29: Industry Quality Convergence
 
-## Learning Objectives
-
-- Understand the convergence of quality standards across assessment providers
-- Analyze how methodological advances have raised industry baselines
-- Evaluate the competitive landscape of psychometric assessment
-- Compare technical standards across major assessment publishers
-- Recognize how methodological divergence drives competitive differentiation
-
 ## Introduction
 
 The psychometric assessment industry has experienced a remarkable transformation over the past two decades. While the field was once characterized by significant quality disparities between vendors, modern assessment providers have largely converged on comparable levels of psychometric excellence. This chapter examines how competition and scientific advancement have driven this quality convergence, while methodological innovation remains the key differentiator among major publishers.

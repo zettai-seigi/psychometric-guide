@@ -8,13 +8,6 @@ permalink: /chapters/33-report-architecture/
 
 # Chapter 33: Automated Report Architecture
 
-## Learning Objectives
-
-- Understand the expert system logic underlying report generation
-- Explore narrative generation through score-to-text mapping
-- Analyze actuarial interpretation and algorithmic consistency
-- Evaluate the advantages of automated reporting systems
-
 ---
 
 ## 33.1 The Foundation: Computer-Based Test Interpretation

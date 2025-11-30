@@ -8,15 +8,6 @@ permalink: /chapters/03-psychometric-foundations/
 
 # Chapter 3: Psychometric Foundations
 
-## Learning Objectives
-
-By the end of this chapter, you will be able to:
-- Explain the fundamental differences between Classical Test Theory (CTT) and Item Response Theory (IRT)
-- Understand why SHL transitioned from CTT to IRT for OPQ32 and Verify
-- Describe the role of normative data in making scores interpretable
-- Recognize the importance of psychometric rigor in high-stakes assessment
-- Explain the relationship between measurement precision and decision quality
-
 ## The Evolution from Classical Test Theory to Item Response Theory
 
 The history of psychometric assessment reflects a steady progression toward greater precision, efficiency, and validity. SHL's assessment suite exemplifies this evolution, demonstrating a decisive pivot from Classical Test Theory (CTT) to sophisticated Item Response Theory (IRT) methods for its core instruments.

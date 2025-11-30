@@ -8,19 +8,6 @@ permalink: /chapters/16-18-dimensions/
 
 # Chapter 16: The 18 Motivation Dimensions
 
-## Learning Objectives
-
-By the end of this chapter, you will be able to:
-
-1. Identify and describe all 18 motivation dimensions measured by the MQ
-2. Explain the four domain groupings that organize the dimensions
-3. Describe the specific psychological drivers captured by each dimension
-4. Distinguish between Energy & Dynamism dimensions and their workplace implications
-5. Explain the Synergy dimensions and their role in environmental comfort
-6. Describe the Intrinsic dimensions and their relationship to job content
-7. Explain the Extrinsic dimensions and their focus on external rewards
-8. Apply knowledge of the 18 dimensions to predict person-role fit
-
 ---
 
 ## Introduction: The Motivational Architecture

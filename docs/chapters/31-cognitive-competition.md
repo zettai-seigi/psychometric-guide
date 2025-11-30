@@ -8,14 +8,6 @@ permalink: /chapters/31-cognitive-competition/
 
 # Chapter 31: Cognitive Assessment Competition
 
-## Learning Objectives
-
-- Compare SHL Verify with competing cognitive assessment systems across methodology, design philosophy, and efficiency
-- Analyze the role of Item Response Theory (IRT) and Computer Adaptive Testing (CAT) as modern industry standards
-- Evaluate design trade-offs between breadth (all job levels) vs. depth (executive differentiation) vs. speed (volume recruitment)
-- Understand the historical transition from classical fixed-form tests to modern adaptive assessments
-- Assess the competitive landscape of cognitive ability testing and vendor differentiation strategies
-
 ## Introduction
 
 The cognitive assessment market has undergone a fundamental transformation over the past two decades, driven by the widespread adoption of Item Response Theory (IRT) and Computer Adaptive Testing (CAT). While all major vendors achieve strong predictive validity for General Mental Ability (g), they differ significantly in their design philosophy, implementation approach, and target use cases. This chapter examines how SHL Verify compares to leading competitors and why adaptive testing has become the modern standard.

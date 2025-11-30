@@ -8,13 +8,6 @@ permalink: /chapters/36-multi-source/
 
 # Chapter 36: Multi-Source Integration (P+A)
 
-## Learning Objectives
-
-- Understand the theoretical rationale for combining personality and ability data
-- Analyze the validity improvement from multi-source integration
-- Explore the penalty function and cognitive moderation logic
-- Evaluate weighted formulas integrating diverse data sources
-
 ---
 
 ## 36.1 Theoretical Foundation: Preference vs. Power

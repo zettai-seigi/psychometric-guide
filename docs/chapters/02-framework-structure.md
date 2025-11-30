@@ -8,14 +8,6 @@ permalink: /chapters/02-framework-structure/
 
 # Chapter 2: The Assessment Framework Structure
 
-## Learning Objectives
-
-By the end of this chapter, you will be able to:
-- Explain how OPQ32, Verify, and MQ measure different psychological constructs
-- Differentiate between style, power, and will in talent assessment
-- Understand the theoretical foundations underlying each assessment type
-- Recognize how construct differences drive methodological choices
-
 ## Understanding Psychological Constructs in Assessment
 
 Modern talent assessment rests on the principle that job performance depends on multiple, distinct psychological constructs. SHL's three-pillar architecture reflects this principle by measuring three fundamentally different aspects of human capability.

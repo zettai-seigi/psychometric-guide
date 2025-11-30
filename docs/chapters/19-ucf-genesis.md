@@ -8,17 +8,6 @@ permalink: /chapters/19-ucf-genesis/
 
 # Chapter 19: UCF Genesis - The Research Foundation
 
-## Learning Objectives
-
-By the end of this chapter, you will be able to:
-
-1. Explain the historical context that necessitated the UCF's development
-2. Describe Professor Dave Bartram's research methodology from 2001-2006
-3. Understand how the evidence-based taxonomy was constructed
-4. Recognize the significance of the 403+ competency models generated
-5. Articulate the criterion-centric architecture's purpose
-6. Evaluate the UCF's competitive advantages in the assessment market
-
 ## The Pre-UCF Landscape: Fragmentation and Inconsistency
 
 Prior to 2001, SHL's competency reporting architecture suffered from a fundamental problem: fragmentation. The company maintained separate competency models for different organizational contexts—a managerial framework for leadership assessments, a customer service framework for frontline roles, technical frameworks for specialized positions. Each model was valid within its domain, but they lacked a unifying structure.

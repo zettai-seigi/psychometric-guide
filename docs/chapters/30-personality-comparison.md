@@ -8,14 +8,6 @@ permalink: /chapters/30-personality-comparison/
 
 # Chapter 30: Personality Assessment Comparison
 
-## Learning Objectives
-
-- Compare OPQ32r with competing personality assessments across format, scoring, and theoretical foundations
-- Analyze methodological differences between forced-choice and normative formats
-- Evaluate faking resistance mechanisms across major personality instruments
-- Understand the Thurstonian IRT breakthrough and its competitive significance
-- Assess validity evidence and practical trade-offs across personality measures
-
 ## Introduction
 
 The personality assessment market features several scientifically robust instruments, each distinguished by its methodological approach to measuring workplace personality. While major vendors achieve comparable predictive validity, they differ fundamentally in format, scoring methodology, and theoretical foundation. This chapter provides a comprehensive comparison of leading personality assessments, with particular focus on the methodological innovations that differentiate them.

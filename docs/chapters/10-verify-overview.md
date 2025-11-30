@@ -8,18 +8,6 @@ permalink: /chapters/10-verify-overview/
 
 # Chapter 10: Verify Suite Overview
 
-## Learning Objectives
-
-By the end of this chapter, you will be able to:
-
-1. Understand the historical context and R&D investment behind the Verify suite (2006-2007)
-2. Recognize General Mental Ability (GMA) and its predictive power in workplace settings
-3. Identify the three core reasoning domains measured by Verify
-4. Explain the Verify product suite structure and component tests
-5. Describe how Verify compares to competitive offerings from Talent Q and Saville
-6. Grasp the measurement taxonomy that underlies workplace cognitive assessment
-7. Understand the role of Verify within SHL's integrated assessment ecosystem
-
 ---
 
 ## Introduction: The Digital Assessment Revolution

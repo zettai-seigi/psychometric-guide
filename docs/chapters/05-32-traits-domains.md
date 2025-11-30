@@ -8,15 +8,6 @@ permalink: /chapters/05-32-traits-domains/
 
 # Chapter 5: The 32 Traits and Three Domains
 
-## Learning Objectives
-
-By the end of this chapter, you will be able to:
-- Master the three-domain structure (Relationships with People, Thinking Style, Feelings and Emotions)
-- Identify all 32 specific traits and their measurement focus
-- Understand how traits map to workplace behaviors and competencies
-- Recognize the alignment with Big Five personality factors and workplace-specific constructs
-- Grasp the hierarchical organization from domains to sub-categories to individual traits
-
 ## Introduction: A Workplace-Focused Trait Model
 
 The OPQ32 measures **32 distinct traits of behavioral style** that are specifically relevant to job performance. Unlike general personality inventories that were designed for clinical or research purposes, the OPQ32 was constructed from the ground up with a singular focus: measuring personality characteristics that matter in the workplace.

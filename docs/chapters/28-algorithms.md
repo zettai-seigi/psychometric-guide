@@ -8,18 +8,6 @@ permalink: /chapters/28-algorithms/
 
 # Competency Prediction Algorithms
 
-### Learning Objectives
-
-By the end of this chapter, you will be able to:
-
-1. Understand the mathematical structure of SHL's competency prediction formula
-2. Explain how regression weights (β, γ) are empirically derived
-3. Describe the DNV Logic (Diagrammatic, Numerical, Verbal) for cognitive moderation
-4. Interpret penalty functions that reconcile conflicts between preference and capacity
-5. Evaluate the differential weighting of personality vs. ability for specific competencies
-6. Articulate how the algorithm synthesizes multi-source data into holistic predictions
-7. Appreciate the empirical foundation and continuous refinement of prediction models
-
 ### The Competency Prediction Challenge
 
 The Universal Competency Framework defines 20 workplace competencies (e.g., Analyzing & Interpreting, Leading & Deciding, Adapting & Coping) that predict job performance. But how do we translate raw assessment scores—32 OPQ personality traits, 3 Verify ability scores, 18 MQ motivation dimensions—into a single, interpretable competency score?
@@ -409,18 +397,6 @@ While the core competency prediction algorithm is based on regression equations 
 
 [↑ Back to Home](/psychometric-guide/)
 
-
-### Learning Objectives
-
-By the end of this chapter, you will be able to:
-
-1. Understand the mathematical structure of SHL's competency prediction formula
-2. Explain how regression weights (β, γ) are empirically derived
-3. Describe the DNV Logic (Diagrammatic, Numerical, Verbal) for cognitive moderation
-4. Interpret penalty functions that reconcile conflicts between preference and capacity
-5. Evaluate the differential weighting of personality vs. ability for specific competencies
-6. Articulate how the algorithm synthesizes multi-source data into holistic predictions
-7. Appreciate the empirical foundation and continuous refinement of prediction models
 
 ### The Competency Prediction Challenge
 

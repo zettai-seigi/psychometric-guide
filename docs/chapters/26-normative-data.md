@@ -8,17 +8,6 @@ permalink: /chapters/26-normative-data/
 
 # Normative Data Strategies
 
-### Learning Objectives
-
-By the end of this chapter, you will be able to:
-
-1. Explain why raw scores and theta estimates require normative context for interpretation
-2. Understand sten scores and their psychometric properties (mean = 5.5, SD = 2.0)
-3. Describe SHL's normative database scope (countries, languages, job levels, industries)
-4. Articulate the rationale for stratified norm groups (job level, industry, function)
-5. Evaluate the trade-offs between general norms and specific comparison groups
-6. Apply normative data strategically in selection and development contexts
-
 ### The Necessity of Normative Comparison
 
 Psychometric scores—whether raw scores (number correct), theta estimates (IRT ability), or sten scores (standardized traits)—are inherently **relative**. A numerical reasoning score of θ = 1.2 or a sten of 7 on Persuasiveness conveys no information in isolation. These metrics gain meaning only through comparison to a reference group (norm group).
@@ -318,17 +307,6 @@ This transparency allows users to evaluate the relevance and stability of the no
 
 [↑ Back to Home](/psychometric-guide/)
 
-
-### Learning Objectives
-
-By the end of this chapter, you will be able to:
-
-1. Explain why raw scores and theta estimates require normative context for interpretation
-2. Understand sten scores and their psychometric properties (mean = 5.5, SD = 2.0)
-3. Describe SHL's normative database scope (countries, languages, job levels, industries)
-4. Articulate the rationale for stratified norm groups (job level, industry, function)
-5. Evaluate the trade-offs between general norms and specific comparison groups
-6. Apply normative data strategically in selection and development contexts
 
 ### The Necessity of Normative Comparison
 

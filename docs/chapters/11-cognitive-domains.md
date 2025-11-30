@@ -8,19 +8,6 @@ permalink: /chapters/11-cognitive-domains/
 
 # Chapter 11: Cognitive Domains and the g Factor
 
-## Learning Objectives
-
-By the end of this chapter, you will be able to:
-
-1. Explain Carroll's three-stratum theory as the foundation for cognitive ability measurement
-2. Describe the hierarchical structure of intelligence from narrow abilities to the g factor
-3. Understand why General Mental Ability (g) predicts job performance so consistently
-4. Identify the cognitive processes underlying each Verify reasoning domain
-5. Recognize how Numerical Reasoning manifests in workplace tasks
-6. Explain the True/False/Cannot Say logic of Verbal Reasoning assessment
-7. Understand Inductive Reasoning as a measure of fluid intelligence and novel problem-solving
-8. Grasp how the three domains relate to each other and to general mental ability
-
 ---
 
 ## Introduction: The Architecture of Intelligence

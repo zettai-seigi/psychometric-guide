@@ -8,17 +8,6 @@ permalink: /chapters/09-cross-cultural/
 
 # Chapter 9: Cross-Cultural Adaptation
 
-## Learning Objectives
-
-By the end of this chapter, you will be able to:
-- Understand the comprehensive process of cross-cultural adaptation for the OPQ32
-- Recognize the global scope of the OPQ32 (30+ languages, 37 countries, 92 norm groups)
-- Grasp the methodology for translation, validation, and norming across cultures
-- Appreciate the importance of local versus global norms
-- Understand measurement invariance testing and cross-cultural equivalence
-- Apply cultural considerations in test interpretation and use
-- Recognize the role of international guidelines (ITC Guidelines) in test adaptation
-
 ## Introduction: The Global Challenge
 
 In an increasingly globalized economy, organizations operate across borders, recruiting and managing talent from diverse cultural backgrounds. Multinational corporations need to make consistent, fair, and valid selection decisions whether they're hiring in Singapore, São Paulo, Stockholm, or Sydney. This creates a fundamental challenge for psychological assessment: how can a personality measure developed in one culture be meaningfully and fairly applied in another?

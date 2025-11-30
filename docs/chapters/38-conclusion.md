@@ -8,13 +8,6 @@ permalink: /chapters/38-conclusion/
 
 # Chapter 38: Conclusion
 
-## Learning Objectives
-
-- Synthesize understanding of the integrated SHL ecosystem
-- Reflect on methodological evolution from CTT to IRT to AI
-- Evaluate SHL's industry leadership position
-- Anticipate future directions for psychometric assessment
-
 ---
 
 ## 38.1 SHL Ecosystem Integration Summary

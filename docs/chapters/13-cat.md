@@ -8,20 +8,6 @@ permalink: /chapters/13-cat/
 
 # Chapter 13: Computer Adaptive Testing
 
-## Learning Objectives
-
-By the end of this chapter, you will be able to:
-
-1. Understand the adaptive testing algorithm and real-time item selection logic
-2. Recognize the role of Fisher Information in maximizing measurement precision
-3. Grasp the efficiency gains of CAT (achieving same reliability with 50% fewer items)
-4. Appreciate the security benefits of unique item sequences for each candidate
-5. Explain stopping rules and standard error thresholds that determine test termination
-6. Describe item banking requirements for successful CAT implementation
-7. Understand exposure control mechanisms that prevent item overuse
-8. Recognize how the adaptive loop updates theta estimates after each response
-9. Compare CAT to fixed-form testing in terms of efficiency, precision, and candidate experience
-
 ---
 
 ## Introduction: The Promise of Personalized Assessment

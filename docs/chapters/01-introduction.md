@@ -8,14 +8,6 @@ permalink: /chapters/01-introduction/
 
 # Chapter 1: Introduction to SHL Assessment Architecture
 
-## Learning Objectives
-
-By the end of this chapter, you will be able to:
-- Identify and describe the three pillars of SHL's assessment ecosystem
-- Explain how OPQ32, Verify, and MQ measure different psychological constructs
-- Understand the role of the Universal Competency Framework (UCF) as the unifying architecture
-- Recognize how these tools integrate to provide comprehensive talent assessment
-
 ## The Three Pillars of Assessment
 
 The SHL assessment suite represents an exhaustive examination of assessment methodologies, detailing theoretical frameworks, construction, sophisticated scoring algorithms, and the unifying function of the Universal Competency Framework (UCF) across three distinct measurement domains:

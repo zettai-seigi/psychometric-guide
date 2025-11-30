@@ -8,16 +8,6 @@ permalink: /chapters/08-thurstonian-irt/
 
 # Chapter 8: Thurstonian IRT Breakthrough
 
-## Learning Objectives
-
-By the end of this chapter, you will be able to:
-- Master the concept of Thurstonian Item Response Theory and its theoretical foundations
-- Understand the Multi-Unidimensional Pairwise Preference (MUPP) model
-- Explain how IRT recovers normative scores from forced-choice data
-- Grasp the technical implementation and validation of OPQ32r scoring
-- Recognize why this represents a major methodological breakthrough
-- Understand the practical benefits achieved through Thurstonian IRT
-
 ## Introduction: Solving the Ipsative Problem
 
 Chapter 7 concluded with a fundamental challenge: how could personality assessment maintain the faking resistance of forced-choice formats while recovering the valid between-person comparisons necessary for selection decisions? For over a decade, this appeared to be an intractable trade-off, forcing practitioners to choose between measurement integrity and practical utility.

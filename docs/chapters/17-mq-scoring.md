@@ -8,19 +8,6 @@ permalink: /chapters/17-mq-scoring/
 
 # Chapter 17: MQ Construction and CTT Scoring
 
-## Learning Objectives
-
-By the end of this chapter, you will be able to:
-
-1. Explain the Likert-type format used by the MQ (5-point scale)
-2. Describe Classical Test Theory (CTT) scoring methodology
-3. Explain how Cronbach's alpha assesses MQ reliability
-4. Describe the reliability threshold (0.75-0.85) for MQ scales
-5. Explain sten score conversion and interpretation
-6. Describe the typical MQ format (approximately 150 items, 25 minutes)
-7. Compare MQ's CTT approach to OPQ32r and Verify's IRT methods
-8. Interpret MQ scores using norm groups
-
 ---
 
 ## Introduction: The MQ Measurement Approach

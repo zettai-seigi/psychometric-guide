@@ -8,13 +8,6 @@ permalink: /chapters/34-ucr/
 
 # Chapter 34: Universal Competency Report (UCR)
 
-## Learning Objectives
-
-- Understand the structure and components of the UCR
-- Analyze the graphical competency plotting system
-- Explore narrative interpretation sections
-- Evaluate how personality characteristics are synthesized into competency predictions
-
 ---
 
 ## 34.1 UCR Overview and Purpose

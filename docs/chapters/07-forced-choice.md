@@ -8,16 +8,6 @@ permalink: /chapters/07-forced-choice/
 
 # Chapter 7: Forced-Choice Format and Faking Resistance
 
-## Learning Objectives
-
-By the end of this chapter, you will be able to:
-- Understand the problem of socially desirable responding and faking in personality assessment
-- Recognize the limitations of normative Likert-type scales in high-stakes selection contexts
-- Explain how forced-choice formats address the faking problem
-- Grasp the rationale behind the OPQ32i ipsative format
-- Identify the psychometric problems created by classical ipsative scoring
-- Understand the historical evolution from OPQ32n to OPQ32i to OPQ32r
-
 ## Introduction: The Challenge of Valid Personality Assessment
 
 Personality assessment in occupational settings faces a fundamental challenge: how do we measure an individual's true characteristics when they have strong incentives to present themselves favorably? This question becomes particularly acute in high-stakes selection contexts, where a job offer, promotion, or career opportunity hangs in the balance. The tension between obtaining valid personality data and the natural human tendency toward self-enhancement has driven decades of methodological innovation in psychometric testing.

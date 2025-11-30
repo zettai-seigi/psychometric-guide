@@ -8,19 +8,6 @@ permalink: /chapters/18-mq-applications/
 
 # Chapter 18: MQ in Practice
 
-## Learning Objectives
-
-By the end of this chapter, you will be able to:
-
-1. Explain the primary application of the MQ in coaching and development
-2. Describe how MQ profiles inform job fit matching and role design
-3. Explain the use of MQ in High Potential (HiPo) identification
-4. Describe the Stay and Rise vectors in the HiPo model
-5. Explain how to interpret and use Top 3 / Bottom 3 motivators
-6. Apply MQ insights to engagement and retention strategies
-7. Describe how MQ acts as a contextual modifier in integrated reports
-8. Explain organizational and team-level MQ applications
-
 ---
 
 ## Introduction: From Measurement to Application

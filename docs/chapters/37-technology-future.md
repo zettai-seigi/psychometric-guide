@@ -8,14 +8,6 @@ permalink: /chapters/37-technology-future/
 
 # Chapter 37: Technology Evolution and Future
 
-## Learning Objectives
-
-- Explore mobile optimization and adaptive design
-- Understand AI-based item generation methodologies
-- Analyze machine learning applications in competency weighting
-- Evaluate transparent AI principles and ethical frameworks
-- Examine dynamic talent analytics dashboards
-
 ---
 
 ## 37.1 Mobile Optimization: Verify Interactive

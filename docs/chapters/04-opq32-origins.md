@@ -8,15 +8,6 @@ permalink: /chapters/04-opq32-origins/
 
 # Chapter 4: OPQ32 Origins and Work-Focused Design
 
-## Learning Objectives
-
-By the end of this chapter, you will be able to:
-- Trace the historical development of the OPQ from its 1980s origins
-- Explain why the OPQ focuses on workplace behavior rather than clinical assessment
-- Distinguish between occupational and clinical personality measurement
-- Understand the competitive landscape and market positioning of the OPQ32
-- Recognize the evolution from paper-and-pencil to digital assessment
-
 ## The Birth of Occupational Personality Assessment
 
 The Occupational Personality Questionnaire was originally developed in the 1980s, pioneering the concept of an occupational personality inventory specifically designed for workplace contexts rather than clinical diagnosis.

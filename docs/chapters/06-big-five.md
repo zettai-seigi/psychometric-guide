@@ -8,15 +8,6 @@ permalink: /chapters/06-big-five/
 
 # Chapter 6: Big Five Congruence and Validation
 
-## Learning Objectives
-
-By the end of this chapter, you will be able to:
-- Understand the Five Factor Model (Big Five) of personality and its scientific foundation
-- Map the 32 OPQ traits to Big Five personality factors through weighted composites
-- Recognize the validation evidence demonstrating OPQ32's construct validity
-- Explain how the OPQ32 extends beyond the Big Five to capture workplace-specific constructs
-- Appreciate the theoretical alignment between the OPQ32 and established personality science
-
 ## Introduction: Bridging Work and Science
 
 The Occupational Personality Questionnaire faces a fundamental challenge: it must be both **practically useful for predicting job performance** and **scientifically grounded in established personality theory**. These goals are not in tension. The OPQ32's alignment with the Big Five personality factors demonstrates that workplace-relevant personality measurement can be theoretically rigorous.

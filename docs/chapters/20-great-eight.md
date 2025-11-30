@@ -8,17 +8,6 @@ permalink: /chapters/20-great-eight/
 
 # Chapter 20: Tier 1 - The Great Eight
 
-## Learning Objectives
-
-By the end of this chapter, you will be able to:
-
-1. Define each of the eight Great Eight competency factors
-2. Identify the personality traits and abilities that predict each factor
-3. Explain how the Great Eight align with the Big Five personality model
-4. Understand the corporate utility framing of each factor
-5. Recognize how the Great Eight serve as organizational categories in reports
-6. Evaluate the empirical basis for the eight-factor structure
-
 ## The Highest Level: Strategic Simplicity
 
 The Great Eight competency factors represent Tier 1 of the UCF hierarchy—the highest level of abstraction in SHL's competency architecture. These eight factors serve multiple strategic functions:

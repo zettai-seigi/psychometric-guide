@@ -8,17 +8,6 @@ permalink: /chapters/21-20-dimensions/
 
 # Tier 2 - The 20 Dimensions
 
-### Learning Objectives
-
-By the end of this chapter, you will be able to:
-
-1. Explain why Tier 2 is the "standard operating level" for UCF reports
-2. Identify the 20 competency dimensions and their Great Eight factor groupings
-3. Describe how dimensions distinguish related but distinct workplace behaviors
-4. Map specific OPQ traits to relevant competency dimensions
-5. Understand the balance between specificity and comprehensiveness at Tier 2
-6. Apply the 20 dimensions to real-world selection and development scenarios
-
 ### The Standard Operating Level
 
 Tier 2 of the Universal Competency Framework comprises **20 more specific competency dimensions** that cluster logically under the Great Eight factors. This level represents the **standard operating level for most SHL recruitment and development reports**—the sweet spot that balances:
@@ -382,17 +371,6 @@ Conversely, reducing below 20 dimensions (say, to 12 or 15) loses important diff
 
 [↑ Back to Home](/psychometric-guide/)
 
-
-### Learning Objectives
-
-By the end of this chapter, you will be able to:
-
-1. Explain why Tier 2 is the "standard operating level" for UCF reports
-2. Identify the 20 competency dimensions and their Great Eight factor groupings
-3. Describe how dimensions distinguish related but distinct workplace behaviors
-4. Map specific OPQ traits to relevant competency dimensions
-5. Understand the balance between specificity and comprehensiveness at Tier 2
-6. Apply the 20 dimensions to real-world selection and development scenarios
 
 ### The Standard Operating Level
 

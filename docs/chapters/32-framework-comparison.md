@@ -8,15 +8,6 @@ permalink: /chapters/32-framework-comparison/
 
 # Chapter 32: Motivation and Framework Comparison
 
-## Learning Objectives
-
-- Compare motivation assessment approaches across major vendors (SHL MQ vs. Hogan MVPI)
-- Analyze competency framework architectures and their strategic purposes
-- Evaluate the Universal Competency Framework (UCF) against competing models
-- Understand the advantages of framework breadth, automation, and validation
-- Assess P+A integration methodologies and their impact on predictive validity
-- Recognize why competency framework selection affects organizational talent strategy
-
 ## Introduction
 
 Beyond personality and cognitive assessment, vendors differentiate through their approach to motivation measurement and competency frameworks. These components serve as the "interpretive layer" that translates psychometric scores into actionable talent intelligence. This chapter examines how SHL's Motivation Questionnaire (MQ) and Universal Competency Framework (UCF) compare to competing approaches, with particular focus on framework architecture, automation capabilities, and validated P+A (Personality + Ability) integration.

@@ -8,18 +8,6 @@ permalink: /chapters/27-validity/
 
 # Validity and Reliability
 
-### Learning Objectives
-
-By the end of this chapter, you will be able to:
-
-1. Differentiate between reliability and validity and explain their interrelationship
-2. Understand criterion-related validity (predictive and concurrent) and interpret validity coefficients
-3. Explain construct validity and the role of factor analysis in validation
-4. Interpret reliability coefficients (Cronbach's alpha, marginal reliability) for SHL instruments
-5. Evaluate the magnitude and practical significance of validity coefficients (e.g., ρ = 0.40)
-6. Articulate how multi-assessment integration increases validity
-7. Understand content validity and its role in test construction
-
 ### The Reliability-Validity Relationship
 
 **Reliability** and **validity** are the twin pillars of psychometric quality. They address different but related questions:
@@ -348,18 +336,6 @@ SHL's published validity coefficients align closely with these meta-analytic ben
 
 [↑ Back to Home](/psychometric-guide/)
 
-
-### Learning Objectives
-
-By the end of this chapter, you will be able to:
-
-1. Differentiate between reliability and validity and explain their interrelationship
-2. Understand criterion-related validity (predictive and concurrent) and interpret validity coefficients
-3. Explain construct validity and the role of factor analysis in validation
-4. Interpret reliability coefficients (Cronbach's alpha, marginal reliability) for SHL instruments
-5. Evaluate the magnitude and practical significance of validity coefficients (e.g., ρ = 0.40)
-6. Articulate how multi-assessment integration increases validity
-7. Understand content validity and its role in test construction
 
 ### The Reliability-Validity Relationship
 

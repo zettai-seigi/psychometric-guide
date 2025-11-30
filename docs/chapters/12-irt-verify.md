@@ -8,20 +8,6 @@ permalink: /chapters/12-irt-verify/
 
 # Chapter 12: Item Response Theory in Verify
 
-## Learning Objectives
-
-By the end of this chapter, you will be able to:
-
-1. Understand the fundamental limitations of Classical Test Theory that motivated the shift to IRT
-2. Explain the probabilistic framework underlying Item Response Theory
-3. Master the 2-parameter logistic (2PL) model used in Verify ability tests
-4. Interpret item difficulty (b parameter) and discrimination (a parameter) parameters
-5. Recognize why SHL selected 2PL over Rasch (1PL) and 3PL models
-6. Understand theta (θ) as a latent ability estimate on a continuous scale
-7. Explain the item calibration process with large samples (8,000+ participants)
-8. Grasp information functions and how they quantify measurement precision
-9. Recognize the advantages of IRT over CTT for adaptive testing and score comparability
-
 ---
 
 ## Introduction: The Psychometric Revolution

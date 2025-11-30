@@ -8,18 +8,6 @@ permalink: /chapters/22-112-components/
 
 # Tier 3 - The 112 Components
 
-### Learning Objectives
-
-By the end of this chapter, you will be able to:
-
-1. Explain the purpose of Tier 3's granular behavioral components
-2. Understand the 96 vs. 112 component count discrepancy
-3. Describe how behavioral indicators define components
-4. Explain the five job complexity levels
-5. Understand how Tier 3 enables client-specific competency mapping
-6. Recognize Tier 3's role in assessment innovation
-7. Evaluate when Tier 3 detail is necessary versus when Tier 2 suffices
-
 ### The Atomic Level: Maximum Granularity
 
 Tier 3 of the Universal Competency Framework represents the most granular, detailed level of the competency hierarchy—what might be called the "molecular structure" or "atomic level" of workplace behavior. This tier contains **96 to 112 specific behavioral components** depending on documentation version and application.
@@ -343,18 +331,6 @@ This process preserves psychometric rigor while accommodating organizational uni
 
 [↑ Back to Home](/psychometric-guide/)
 
-
-### Learning Objectives
-
-By the end of this chapter, you will be able to:
-
-1. Explain the purpose of Tier 3's granular behavioral components
-2. Understand the 96 vs. 112 component count discrepancy
-3. Describe how behavioral indicators define components
-4. Explain the five job complexity levels
-5. Understand how Tier 3 enables client-specific competency mapping
-6. Recognize Tier 3's role in assessment innovation
-7. Evaluate when Tier 3 detail is necessary versus when Tier 2 suffices
 
 ### The Atomic Level: Maximum Granularity
 

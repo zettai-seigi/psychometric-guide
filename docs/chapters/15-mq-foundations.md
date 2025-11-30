@@ -8,17 +8,6 @@ permalink: /chapters/15-mq-foundations/
 
 # Chapter 15: MQ Theoretical Foundations
 
-## Learning Objectives
-
-By the end of this chapter, you will be able to:
-
-1. Explain the theoretical grounding of the MQ in workplace motivation theories
-2. Describe how McClelland's Achievement/Power/Affiliation needs inform MQ dimensions
-3. Explain Herzberg's Two-Factor Theory and its relationship to MQ structure
-4. Describe Self-Determination Theory's autonomy/competence/relatedness constructs
-5. Explain how content theories of motivation shape the MQ framework
-6. Articulate the purpose of measuring workplace motivators and values
-
 ---
 
 ## Theoretical Grounding and Purpose

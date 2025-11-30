@@ -8,13 +8,6 @@ permalink: /chapters/35-specialized-reports/
 
 # Chapter 35: Specialized Report Types
 
-## Learning Objectives
-
-- Explore the diversity of SHL report formats
-- Understand specialized reports for different audiences
-- Analyze integration of multi-source data (360-degree feedback)
-- Evaluate specialized reports for high-potential identification
-
 ---
 
 ## 35.1 OPQ32 Profile Chart: Visual Trait Display

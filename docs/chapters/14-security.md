@@ -8,21 +8,6 @@ permalink: /chapters/14-security/
 
 # Chapter 14: Security and Verification
 
-## Learning Objectives
-
-By the end of this chapter, you will be able to:
-
-1. Understand the fundamental challenges of unsupervised online testing in high-stakes contexts
-2. Recognize the two-stage verification model: VAT (unsupervised) and VVT (supervised)
-3. Grasp the Confidence Indicator statistical methodology for detecting score discrepancies
-4. Explain Z-difference scoring and the p < .01 threshold for flagging suspicious patterns
-5. Appreciate the 85% accuracy rate in detecting actual cheating cases
-6. Understand how randomized adaptive administration enhances security
-7. Recognize the role of proctoring options (remote, in-person) in verification
-8. Identify item security strategies including exposure control and item banking
-9. Describe the balance between test security and candidate convenience
-10. Understand legal and ethical considerations in verification testing
-
 ---
 
 ## Introduction: The Security Challenge of Digital Assessment
