@@ -19,6 +19,10 @@ permalink: /chapters/38-conclusion/
 
 ## 38.1 SHL Ecosystem Integration Summary
 
+![Figure 38.1: Comprehensive summary showing SHL's integrated three-pillar ecosystem](/psychometric-guide/images/Figure_38_01.png)
+
+*Figure 38.1: Comprehensive summary showing SHL's integrated three-pillar ecosystem (Assessments, UCF, Intelligence) and the methodological evolution from Classical Test Theory through Item Response Theory to AI-augmented assessment, demonstrating how each phase built upon the previous to create today's sophisticated talent intelligence platform*
+
 **The Unified Assessment Architecture:**
 
 Throughout this comprehensive exploration, we have examined how SHL has constructed a sophisticated, integrated ecosystem that transforms raw psychometric data into actionable talent intelligence. The architecture rests on three interconnected pillars:

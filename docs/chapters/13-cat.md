@@ -43,6 +43,10 @@ This chapter explores the CAT methodology underlying Verify, explaining the adap
 
 Computer Adaptive Testing operates through an iterative algorithm that continuously refines the ability estimate and selects optimal items. Let's walk through the adaptive loop step-by-step, as implemented in Verify.
 
+![Figure 13.1: The Computer Adaptive Testing algorithm](/psychometric-guide/images/Figure_13_01.png)
+
+*Figure 13.1: The Computer Adaptive Testing algorithm showing the iterative loop of item selection, response recording, ability updating, and precision evaluation that continues until stopping rules are satisfied*
+
 ### Step 1: Initialize Ability Estimate
 
 **The Starting Point:**

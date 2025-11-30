@@ -82,6 +82,10 @@ The Verify suite was engineered specifically to address these challenges through
 
 The Verify suite decomposes general intelligence into three specific reasoning mechanisms, each representing a distinct cognitive capacity relevant to workplace performance. These tests are designed around a **measurement taxonomy** that defines how these abilities manifest in workplace tasks.
 
+![Figure 10.1: Example item types for the three reasoning domains measured by Verify](/psychometric-guide/images/Figure_10_01.png)
+
+*Figure 10.1: Example item types for the three reasoning domains measured by Verify, showing workplace-relevant content and response formats*
+
 ### Numerical Reasoning
 
 **Numerical Reasoning** assesses the ability to interpret, analyze, and draw logical conclusions from quantitative information presented in tables, charts, and graphs. This domain measures more than simple arithmetic calculation—it evaluates the capacity to extract meaning from numerical data and apply logical reasoning to business scenarios.

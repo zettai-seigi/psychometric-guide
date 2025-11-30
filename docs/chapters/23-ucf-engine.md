@@ -43,6 +43,10 @@ This architectural inversion offers profound advantages:
 
 ### The Mapping Matrix: Core of the Algorithm
 
+![Figure 23.1: The UCF decoding engine architecture](/psychometric-guide/images/Figure_23_01.png)
+
+*Figure 23.1: The UCF decoding engine architecture showing how personality (OPQ32), ability (Verify), and motivation (MQ) inputs are processed through mapping matrices, weighted calculations, and DNV logic to produce competency predictions and interpretive narratives*
+
 At the heart of the UCF's decoding function lies a **proprietary mapping matrix** or **equation set** that specifies the precise mathematical relationship between assessment scores and competency predictions.
 
 For each of the 20 Tier 2 competency dimensions, the mapping matrix defines:
@@ -429,6 +433,10 @@ This architectural inversion offers profound advantages:
 - **Validated predictions**: Competency scores are empirically linked to job performance
 
 ### The Mapping Matrix: Core of the Algorithm
+
+![Figure 23.1: The UCF decoding engine architecture](/psychometric-guide/images/Figure_23_01.png)
+
+*Figure 23.1: The UCF decoding engine architecture showing how personality (OPQ32), ability (Verify), and motivation (MQ) inputs are processed through mapping matrices, weighted calculations, and DNV logic to produce competency predictions and interpretive narratives*
 
 At the heart of the UCF's decoding function lies a **proprietary mapping matrix** or **equation set** that specifies the precise mathematical relationship between assessment scores and competency predictions.
 

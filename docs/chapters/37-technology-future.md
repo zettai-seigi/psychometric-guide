@@ -360,6 +360,10 @@ ML-refined weights are implemented cautiously:
 
 ## 37.4 Transparent AI Usage Principles
 
+![Figure 37.1: SHL's Transparent AI Framework](/psychometric-guide/images/Figure_37_01.png)
+
+*Figure 37.1: SHL's Transparent AI Framework showing seven guiding principles that ensure ethical, fair, and accountable deployment of artificial intelligence in psychometric assessment*
+
 **The AI Ethics Imperative:**
 
 As AI becomes more prevalent in assessment systems, SHL has committed to "transparent AI" principles ensuring that AI augmentation maintains scientific rigor, fairness, and user trust.

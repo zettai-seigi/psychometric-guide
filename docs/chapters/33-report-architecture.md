@@ -183,6 +183,10 @@ While highly effective, automated systems have limitations:
 
 **The Complete Report Generation Pipeline:**
 
+![Figure 33.1: The six-stage Report Generation Architecture (RGA) pipeline](/psychometric-guide/images/Figure_33_01.png)
+
+*Figure 33.1: The six-stage Report Generation Architecture (RGA) pipeline transforming candidate assessment responses through score retrieval, normative transformation, competency calculation, narrative selection, assembly, and quality assurance to produce comprehensive interpretive reports*
+
 The RGA operates through a sophisticated multi-stage pipeline that transforms raw assessment data into actionable business intelligence:
 
 **Stage 1: Data Collection and Validation**

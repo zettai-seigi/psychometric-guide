@@ -21,6 +21,10 @@ By the end of this chapter, you will be able to:
 
 The OPQ32 measures **32 distinct traits of behavioral style** that are specifically relevant to job performance. Unlike general personality inventories that were designed for clinical or research purposes, the OPQ32 was constructed from the ground up with a singular focus: measuring personality characteristics that matter in the workplace.
 
+![Figure 5.1: The complete OPQ32 architecture showing 32 personality traits organized into 3 major domains and 8 sub-categories](/psychometric-guide/images/Figure_05_01.png)
+
+*Figure 5.1: The complete OPQ32 architecture showing 32 personality traits organized into 3 major domains and 8 sub-categories*
+
 This work-centric focus is evident in every aspect of the instrument:
 
 - **Content Selection**: Only content relevant to job performance is included. Items were phrased behaviorally for each trait domain, including questions about preferences for working with others, leading, complying with rules, and handling workplace stress.

@@ -55,6 +55,10 @@ If personality and ability are universal, and if they predict performance throug
 
 Bartram and his colleagues embarked on a systematic, multi-year research program that combined several methodological approaches:
 
+![Figure 19.1: The five-year research program that developed the Universal Competency Framework](/psychometric-guide/images/Figure_19_01.png)
+
+*Figure 19.1: The five-year research program (2001-2006) that developed the Universal Competency Framework through systematic data collection, content analysis, factor analysis, and validation*
+
 ### Phase 1: Competency Model Collection (2001-2003)
 
 The research team assembled an unprecedented database of competency models from multiple sources:

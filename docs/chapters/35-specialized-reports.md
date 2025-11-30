@@ -19,6 +19,10 @@ permalink: /chapters/35-specialized-reports/
 
 ## 35.1 OPQ32 Profile Chart: Visual Trait Display
 
+![Figure 35.1: Overview of specialized report types](/psychometric-guide/images/Figure_35_01.png)
+
+*Figure 35.1: Overview of specialized report types showing how the same assessment data is formatted differently for assessment specialists (Profile Chart), hiring managers (Manager Plus), candidates (Participant Report), development programs (360 Report), and succession planning (HiPo Report)*
+
 **Purpose and Audience:**
 
 The OPQ Profile Chart provides a "trait snapshot" of a candidate's personality dimensions, serving as the technical, quantitative foundation for personality assessment. This report is designed primarily for assessment specialists and trained psychometric practitioners who require detailed psychometric data.

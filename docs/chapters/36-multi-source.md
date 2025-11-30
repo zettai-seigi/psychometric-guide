@@ -202,6 +202,10 @@ This logic acknowledges that personality preferences alone cannot overcome cogni
 
 ## 36.4 The Penalty Function: Addressing Preference-Ability Conflicts
 
+![Figure 36.1: Cognitive ability as a moderator of personality-competency relationships](/psychometric-guide/images/Figure_36_01.png)
+
+*Figure 36.1: Illustration of cognitive ability as a moderator of personality-competency relationships, showing how the DNV logic penalty function adjusts competency predictions when high personality preference is paired with low cognitive ability*
+
 **Penalty Function Definition:**
 
 The penalty function is an algorithmic adjustment that reduces competency predictions when there is a mismatch between personality preferences (high) and cognitive ability (low). This prevents the system from making unrealistic predictions based solely on preferences without capacity.

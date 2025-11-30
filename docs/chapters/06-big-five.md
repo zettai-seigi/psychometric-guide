@@ -139,6 +139,10 @@ The primary evidence for OPQ32's Big Five congruence comes from **factor-analyti
 
 The most detailed evidence for Big Five congruence comes from research by **Bartram and Brown**, who developed **weighted composite scores** that map OPQ32 traits onto the Five Factor Model.
 
+![Figure 6.1: Weighted composite mappings showing how OPQ32's 32 traits combine to measure the Big Five personality factors](/psychometric-guide/images/Figure_06_01.png)
+
+*Figure 6.1: Weighted composite mappings showing how OPQ32's 32 traits combine to measure the Big Five personality factors, with line thickness indicating relative contribution strength*
+
 **Research Design**: Bartram and Brown collected OPQ32 and NEO-PI-R (the gold-standard Big Five instrument) data from the same individuals. They then used regression analysis to determine optimal weightings for combining OPQ32 traits to predict each Big Five factor.
 
 **Key Finding**: This research mapped **25 of the 32 OPQ scales** to the Five Factor Model using weighted composites. The remaining 7 traits represent workplace-specific constructs (particularly Achievement orientation) that extend beyond the Big Five.

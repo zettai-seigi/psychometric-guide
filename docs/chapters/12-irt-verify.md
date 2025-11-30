@@ -462,6 +462,10 @@ CAT algorithms often continue until SE(θ) drops below a predetermined threshold
 
 ## Information Functions: Quantifying Precision
 
+![Figure 12.1: Item Characteristic Curves and Test Information Function](/psychometric-guide/images/Figure_12_01.png)
+
+*Figure 12.1: Item Characteristic Curves showing probability of correct response by ability level (top), and Test Information Function showing measurement precision across the ability range (bottom)*
+
 ### Item Information
 
 IRT's most powerful concept is the **item information function**, which quantifies how much an item contributes to measurement precision at each θ level.

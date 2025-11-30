@@ -43,6 +43,10 @@ The 18 dimensions offer a comprehensive profile of what drives or demotivates an
 
 The 18 motivational dimensions are organized into four primary domain groupings that capture different facets of motivation. This structure provides both granularity (through the 18 specific dimensions) and conceptual clarity (through the four broader domains).
 
+![Figure 16.1: The complete MQ structure](/psychometric-guide/images/Figure_16_01.png)
+
+*Figure 16.1: The complete MQ structure showing 18 motivation dimensions organized into 4 domain groupings: Energy & Dynamism (7), Synergy (5), Intrinsic (3), and Extrinsic (3)*
+
 | Domain Grouping | Number of Dimensions | Focus |
 |---|---|---|
 | **Energy & Dynamism** | 7 dimensions | Captures where people derive work energy and drive |

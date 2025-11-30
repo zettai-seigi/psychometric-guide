@@ -318,6 +318,10 @@ This is why the UCF framework emphasizes assessing multiple competencies in comb
 
 One of the UCF's most compelling features is its elegant alignment with the Big Five personality model, providing powerful construct validation:
 
+![Figure 20.1: The Great Eight competency factors arranged in octagonal format](/psychometric-guide/images/Figure_20_01.png)
+
+*Figure 20.1: The Great Eight competency factors arranged in octagonal format, showing alignment with Big Five personality factors and General Mental Ability (GMA)*
+
 | **Great Eight Factor** | **Primary Big Five Alignment** | **Supporting Constructs** |
 |------------------------|----------------------------------|---------------------------|
 | Leading and Deciding | Extraversion (Assertiveness) | Need for Power |

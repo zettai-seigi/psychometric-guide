@@ -21,6 +21,10 @@ permalink: /chapters/32-framework-comparison/
 
 Beyond personality and cognitive assessment, vendors differentiate through their approach to motivation measurement and competency frameworks. These components serve as the "interpretive layer" that translates psychometric scores into actionable talent intelligence. This chapter examines how SHL's Motivation Questionnaire (MQ) and Universal Competency Framework (UCF) compare to competing approaches, with particular focus on framework architecture, automation capabilities, and validated P+A (Personality + Ability) integration.
 
+![Figure 32.1: Detailed architectural comparison of major competency frameworks](/psychometric-guide/images/Figure_32_01.png)
+
+*Figure 32.1: Detailed architectural comparison of major competency frameworks showing SHL UCF's distinctive three-tier structure, Thurstonian IRT methodology, and published multi-source validity evidence*
+
 ## Motivation Assessment Comparison
 
 ### Overview of Motivation Instruments

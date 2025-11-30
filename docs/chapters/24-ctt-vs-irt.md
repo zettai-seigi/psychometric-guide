@@ -8,6 +8,10 @@ permalink: /chapters/24-ctt-vs-irt/
 
 # Classical Test Theory vs Item Response Theory
 
+![Figure 24.1: Comprehensive comparison of Classical Test Theory and Item Response Theory paradigms](/psychometric-guide/images/Figure_24_01.png)
+
+*Figure 24.1: Comprehensive comparison of Classical Test Theory and Item Response Theory paradigms, showing the methodological evolution that enabled SHL's transition to adaptive testing and Thurstonian IRT scoring*
+
 ### Learning Objectives
 
 By the end of this chapter, you will be able to:

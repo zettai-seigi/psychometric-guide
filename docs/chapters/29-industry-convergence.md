@@ -158,6 +158,10 @@ Academic publications, conference presentations, and technical manuals dissemina
 
 While **quality has converged**, **methodology remains divergent**. Major vendors differentiate themselves through proprietary approaches to achieving valid prediction:
 
+![Figure 29.1: Strategic positioning of major assessment vendors](/psychometric-guide/images/Figure_29_01.png)
+
+*Figure 29.1: Strategic positioning of major assessment vendors on methodology sophistication and competency framework depth, with SHL positioned as industry leader in comprehensive, advanced assessment methodology*
+
 ### The Role of Innovation
 
 Vendors invest heavily in Research & Development to develop methodologically distinctive approaches:

@@ -33,6 +33,10 @@ Classical Test Theory, developed in the early 20th century, provided the origina
    - The true score is what we want to measure
    - Error is random measurement noise
 
+![Figure 3.1: The Classical Test Theory equation decomposing observed scores into true score and error components](/psychometric-guide/images/Figure_03_01.png)
+
+*Figure 3.1: The Classical Test Theory equation decomposing observed scores into true score and error components*
+
 2. **Reliability:**
    - Reliability = True Score Variance / Observed Score Variance
    - Assessed through internal consistency (Cronbach's alpha)
@@ -89,6 +93,10 @@ Item Response Theory, developed from the 1950s onward, provides a more sophistic
    - Test information varies across ability levels
    - Maximum information where items match ability
    - Precision is ability-dependent
+
+![Figure 3.2: Comparison of measurement precision across ability levels - CTT's constant SEM versus IRT's ability-dependent precision](/psychometric-guide/images/Figure_03_02.png)
+
+*Figure 3.2: Comparison of measurement precision across ability levels - CTT's constant SEM versus IRT's ability-dependent precision*
 
 **The 2-Parameter Logistic Model (2PL):**
 

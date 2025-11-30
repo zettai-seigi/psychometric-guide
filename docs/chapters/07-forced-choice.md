@@ -89,6 +89,10 @@ This approach is analogous to asking someone "Would you rather be seen as 'highl
 
 The forced-choice implementation in the OPQ32i used a **triplet format** consisting of 104 blocks, each containing three statements:
 
+![Figure 7.1: Example OPQ32r forced-choice triplet item](/psychometric-guide/images/Figure_07_01.png)
+
+*Figure 7.1: Example OPQ32r forced-choice triplet item showing how candidates must select 'Most like me' and 'Least like me' from three equally desirable statements measuring different traits*
+
 **Structure of Each Block:**
 - Three statements, each measuring a different OPQ trait
 - Statements matched for social desirability within the block

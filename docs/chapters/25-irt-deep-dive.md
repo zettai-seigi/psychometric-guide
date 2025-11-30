@@ -159,6 +159,10 @@ The MUPP model, used in OPQ32r, extends this logic to triplet forced-choice item
 
 ### The Test Information Function: Defining Precision
 
+![Figure 25.1: Item Characteristic Curves and Test Information Function](/psychometric-guide/images/Figure_25_01.png)
+
+*Figure 25.1: Item Characteristic Curves (top) showing probability of correct response by ability level for items of varying difficulty, and Test Information Function (bottom) showing measurement precision across the ability range with inverse relationship to Standard Error*
+
 IRT introduces the concept of the **Test Information Function (TIF)**, which quantifies how much information (precision) a test provides at each point along the theta scale.
 
 **Information (I)** is mathematically defined as:
@@ -461,6 +465,10 @@ The MUPP model, used in OPQ32r, extends this logic to triplet forced-choice item
 **Outcome**: Thurstonian IRT solved the decades-old problem of ipsative scoring, allowing forced-choice personality tests to produce scores suitable for between-person comparison while retaining resistance to faking. This methodological innovation is cited as a significant advancement in personality assessment.
 
 ### The Test Information Function: Defining Precision
+
+![Figure 25.1: Item Characteristic Curves and Test Information Function](/psychometric-guide/images/Figure_25_01.png)
+
+*Figure 25.1: Item Characteristic Curves (top) showing probability of correct response by ability level for items of varying difficulty, and Test Information Function (bottom) showing measurement precision across the ability range with inverse relationship to Standard Error*
 
 IRT introduces the concept of the **Test Information Function (TIF)**, which quantifies how much information (precision) a test provides at each point along the theta scale.
 

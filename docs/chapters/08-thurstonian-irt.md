@@ -117,6 +117,10 @@ With 32 traits measured across 104 blocks, the OPQ32r creates a highly overdeter
 
 ## The Thurstonian IRT Model for the OPQ32r
 
+![Figure 8.1: The Thurstonian IRT scoring process](/psychometric-guide/images/Figure_08_01.png)
+
+*Figure 8.1: The Thurstonian IRT scoring process converting forced-choice responses into normative trait estimates through mathematical triangulation across 104 interconnected comparison blocks*
+
 ### The Multi-Unidimensional Pairwise Preference (MUPP) Model
 
 SHL implemented a specific variant of Thurstonian IRT called the **Multi-Unidimensional Pairwise Preference (MUPP) model**, developed by Anna Brown and Alberto Maydeu-Olivares (2011).
