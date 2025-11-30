@@ -8,6 +8,14 @@ permalink: /chapters/21-20-dimensions/
 
 # Tier 2 - The 20 Dimensions
 
+## Introduction
+
+While the Great Eight provide executive-level overview, operational talent decisions require greater specificity. Tier 2 of the Universal Competency Framework delivers this precision through 20 competency dimensions that balance granularity with manageability. This is the operational heart of SHL reporting—the level appearing in most candidate assessments, development plans, and selection decisions. Understanding these 20 dimensions and their empirical foundations is essential for effective interpretation and application of SHL reports.
+
+Each Tier 2 dimension represents a distinct, measurable aspect of workplace performance with specific behavioral indicators, validated psychometric predictors, and differential relevance across roles. Unlike broad Tier 1 factors that apply universally, Tier 2 dimensions enable role-specific profiling: "Analyzing and Interpreting" matters critically for data analysts but less for customer service representatives, while "Relating and Networking" shows the opposite pattern. This role-specificity enables customized assessment strategies where organizations weight dimensions according to validated job requirements rather than assessing all competencies equally.
+
+The chapter explores the hierarchical relationship between Tier 1 and Tier 2, showing how multiple dimensions cluster under each Great Eight factor. This nested structure enables both drill-down analysis—starting with Tier 1 patterns, then examining specific Tier 2 drivers—and roll-up reporting where detailed dimension scores aggregate into factor-level summaries. Understanding this architecture clarifies why SHL reports often present information at multiple levels of granularity, enabling users to select the appropriate detail for their purpose.
+
 ### The Standard Operating Level
 
 Tier 2 of the Universal Competency Framework comprises **20 more specific competency dimensions** that cluster logically under the Great Eight factors. This level represents the **standard operating level for most SHL recruitment and development reports**—the sweet spot that balances:

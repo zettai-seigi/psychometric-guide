@@ -8,6 +8,14 @@ permalink: /chapters/26-normative-data/
 
 # Normative Data Strategies
 
+## Introduction
+
+Psychometric scores gain meaning only through comparison to reference populations. A numerical reasoning theta of 1.2 or a personality sten of 7 conveys nothing in isolation—the critical question is always "compared to whom?" This chapter examines SHL's sophisticated normative data strategies, exploring how extensive international databases stratified by job level, industry, and culture transform abstract measurements into interpretable, actionable comparisons. Understanding normative frameworks is essential for appropriate test selection, accurate score interpretation, and defensible decision-making.
+
+The chapter begins by explaining SHL's sten (Standard Ten) score system—a normalized scale deliberately chosen over percentiles for practical reasons including reduced precision artifacts and improved interpretability. While stens provide the standard reporting metric, the underlying normative strategy involves complex decisions about appropriate comparison groups. Should a finance candidate be compared to all professionals, finance professionals specifically, or finance professionals at similar organizational levels? Each choice produces different scores with different implications for selection decisions.
+
+SHL maintains dozens of normative databases reflecting different populations, cultures, and organizational contexts. The chapter explores the construction, validation, and application of these databases, addressing critical questions about cultural bias, norm obsolescence, and appropriate norm selection for diverse organizational contexts. Understanding these technical foundations enables practitioners to select appropriate norms, explain score meanings accurately, and recognize when norm limitations require supplementary local validation or cautious interpretation.
+
 ### The Necessity of Normative Comparison
 
 Psychometric scores—whether raw scores (number correct), theta estimates (IRT ability), or sten scores (standardized traits)—are inherently **relative**. A numerical reasoning score of θ = 1.2 or a sten of 7 on Persuasiveness conveys no information in isolation. These metrics gain meaning only through comparison to a reference group (norm group).

@@ -8,6 +8,14 @@ permalink: /chapters/02-framework-structure/
 
 # Chapter 2: The Assessment Framework Structure
 
+## Introduction
+
+The power of SHL's assessment architecture lies not in any single measurement tool, but in the sophisticated theoretical framework that distinguishes between fundamentally different types of human attributes. While Chapter 1 introduced the three assessment pillars, this chapter explains why these distinct measurement approaches are necessary and how they complement one another. Understanding the framework structure is essential for interpreting assessment results accurately and applying them appropriately in organizational contexts.
+
+Modern talent assessment recognizes that job performance depends on multiple, independent psychological constructs. A brilliant strategist with poor stress tolerance may fail in high-pressure roles. A highly motivated individual lacking cognitive capacity will struggle with complex analytical tasks. Effective assessment requires measuring each construct separately, then integrating findings to produce holistic predictions. This chapter explores the theoretical foundations underlying each assessment domain, clarifying why personality, ability, and motivation require different methodologies and yield different types of insights.
+
+The framework structure also reveals SHL's commitment to construct validity—ensuring that each assessment measures what it claims to measure. By grounding personality measurement in the Big Five model, ability testing in hierarchical intelligence theory, and motivation in content theories of workplace drivers, SHL connects its practical tools to decades of psychological research. This theoretical grounding distinguishes scientifically rigorous assessment from superficial measurement that may appear valid but lacks empirical foundation.
+
 ## Understanding Psychological Constructs in Assessment
 
 Modern talent assessment rests on the principle that job performance depends on multiple, distinct psychological constructs. SHL's three-pillar architecture reflects this principle by measuring three fundamentally different aspects of human capability.

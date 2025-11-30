@@ -8,6 +8,14 @@ permalink: /chapters/04-opq32-origins/
 
 # Chapter 4: OPQ32 Origins and Work-Focused Design
 
+## Introduction
+
+The Occupational Personality Questionnaire represents a watershed innovation in workplace assessment—the first major personality instrument explicitly designed for employment contexts rather than clinical diagnosis. This chapter traces the OPQ's development from its 1980s origins through its evolution into the current OPQ32r, revealing how methodological innovations solved decades-long challenges in personality measurement. Understanding this history clarifies why the OPQ differs fundamentally from clinical instruments and why its work-focused design matters for organizational applications.
+
+The chapter explores the deliberate design choices that distinguish occupational from clinical personality assessment. Every aspect of the OPQ reflects its workplace purpose: construct selection based on job analysis rather than psychopathology, item content describing work behaviors rather than psychological symptoms, and validation strategies demonstrating prediction of job performance rather than diagnosis of mental health conditions. This purposeful design ensures face validity, legal defensibility, and practical utility in employment contexts—qualities that clinical instruments lack regardless of their academic credentials.
+
+Finally, we examine the competitive landscape and the OPQ's position relative to alternative instruments. While the Hogan Personality Inventory, NEO-PI-R, 16PF, and MBTI all measure personality, they differ profoundly in design philosophy, psychometric sophistication, and appropriateness for selection versus development applications. Understanding these distinctions enables informed assessment selection and appropriate application of results.
+
 ## The Birth of Occupational Personality Assessment
 
 The Occupational Personality Questionnaire was originally developed in the 1980s, pioneering the concept of an occupational personality inventory specifically designed for workplace contexts rather than clinical diagnosis.

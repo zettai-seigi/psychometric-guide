@@ -8,6 +8,14 @@ permalink: /chapters/27-validity/
 
 # Validity and Reliability
 
+## Introduction
+
+The scientific credibility of any assessment system rests on two fundamental psychometric properties: reliability (Does it measure consistently?) and validity (Does it measure what it claims and predict what it should?). This chapter presents the extensive reliability and validity evidence supporting SHL's assessment suite, demonstrating how decades of empirical research establish these tools as among the most thoroughly validated in the industry. For practitioners selecting vendors or defending assessment choices to stakeholders, understanding this evidence base is essential for informed decision-making and credible communication.
+
+The chapter begins by clarifying the reliability-validity relationship—reliability is necessary but not sufficient for validity, and the maximum achievable validity is constrained by the reliability of both predictor and criterion measures. SHL reports reliability using different coefficients appropriate to each assessment methodology: marginal reliability for IRT-scored instruments like OPQ32r, classical internal consistency for the MQ, and test-retest stability for ability assessments. Understanding these different metrics enables accurate interpretation of technical documentation and appropriate comparison across instruments.
+
+Beyond reliability, the chapter examines construct validity—evidence that assessments measure their intended constructs—and criterion-related validity—evidence that assessments predict job performance, training success, and retention. Meta-analytic findings demonstrate substantial predictive validities for personality and ability combinations (ρ = 0.40-0.44 for key competencies), justifying their use in high-stakes selection. The chapter concludes by exploring fairness evidence—demonstrating that SHL assessments show minimal adverse impact across protected groups when properly implemented—addressing the critical ethical and legal dimensions of employment testing.
+
 ### The Reliability-Validity Relationship
 
 **Reliability** and **validity** are the twin pillars of psychometric quality. They address different but related questions:

@@ -8,6 +8,14 @@ permalink: /chapters/20-great-eight/
 
 # Chapter 20: Tier 1 - The Great Eight
 
+## Introduction
+
+The Universal Competency Framework's three-tier architecture begins with the Great Eight—a parsimonious set of eight broad competency factors that capture the essential dimensions of workplace performance. This top-level taxonomy serves multiple purposes: providing executive-level overviews of candidate potential, enabling cross-role comparisons, and offering a memorable structure for organizational competency discussions. Understanding Tier 1 reveals how SHL balances comprehensiveness with usability, creating a framework that accommodates both high-level strategic decisions and detailed behavioral analysis.
+
+The Great Eight represent decades of factor-analytic research synthesizing hundreds of organizational competency models. Rather than imposing a theoretical structure, Professor Dave Bartram's research identified empirical clusters in how organizations actually define and evaluate performance. The resulting eight factors—Leading and Deciding, Supporting and Cooperating, Interacting and Presenting, Analyzing and Interpreting, Creating and Conceptualizing, Organizing and Executing, Adapting and Coping, and Enterprising and Performing—reflect common language across industries, cultures, and organizational contexts. This empirical grounding ensures the framework resonates with practitioners while maintaining scientific rigor.
+
+The strategic value of Tier 1 lies in its executive accessibility. While complete 20-dimension profiles provide rich detail, busy executives require digestible summaries. The Great Eight enable rapid talent review conversations where leaders can quickly grasp candidate strengths across major performance domains without drowning in detail. This chapter explores each factor's composition, the research validating the eight-factor structure, and practical applications in talent review and succession planning contexts.
+
 ## The Highest Level: Strategic Simplicity
 
 The Great Eight competency factors represent Tier 1 of the UCF hierarchy—the highest level of abstraction in SHL's competency architecture. These eight factors serve multiple strategic functions:

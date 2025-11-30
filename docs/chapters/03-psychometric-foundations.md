@@ -8,6 +8,14 @@ permalink: /chapters/03-psychometric-foundations/
 
 # Chapter 3: Psychometric Foundations
 
+## Introduction
+
+Beneath the user-friendly reports and intuitive score interpretations lies a foundation of sophisticated psychometric methodology. This chapter examines the technical infrastructure that ensures SHL assessments produce reliable, valid, and defensible measurements. For practitioners selecting assessment vendors, understanding psychometric foundations enables informed evaluation of competing systems. For users interpreting assessment results, this knowledge clarifies what scores actually represent and the confidence appropriate to decision-making.
+
+The chapter traces the methodological evolution from Classical Test Theory to modern Item Response Theory, explaining why SHL invested in this transition for the OPQ32 and Verify assessments. This is not merely academic history—the shift to IRT enabled critical innovations including computer adaptive testing, resistance to faking through forced-choice formats, and individual-level precision estimates. Understanding the capabilities and limitations of each methodology reveals why certain assessment features are possible and why others remain elusive.
+
+Equally important are normative data strategies that transform abstract scores into meaningful comparisons. A raw score or theta estimate conveys nothing without context—the critical question is always "compared to whom?" This chapter explains SHL's extensive normative databases, stratified by job level, industry, and culture, that provide the reference frame for score interpretation. Together, psychometric rigor and appropriate norms constitute the scientific foundation upon which all subsequent interpretation rests.
+
 ## The Evolution from Classical Test Theory to Item Response Theory
 
 The history of psychometric assessment reflects a steady progression toward greater precision, efficiency, and validity. SHL's assessment suite exemplifies this evolution, demonstrating a decisive pivot from Classical Test Theory (CTT) to sophisticated Item Response Theory (IRT) methods for its core instruments.

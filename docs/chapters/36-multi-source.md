@@ -8,9 +8,15 @@ permalink: /chapters/36-multi-source/
 
 # Chapter 36: Multi-Source Integration (P+A)
 
----
+## Introduction
 
-## 36.1 Theoretical Foundation: Preference vs. Power
+The integration of personality and ability data represents one of SHL's most sophisticated methodological achievements—a systematic approach to combining "preference" (what people naturally do) with "power" (what people are capable of doing) into unified competency predictions. This chapter examines the theoretical foundations, empirical evidence, and algorithmic implementation of multi-source integration, revealing why combined prediction substantially outperforms either data source alone. Understanding this integration is essential for appreciating the UCF's predictive validity and for justifying comprehensive assessment batteries.
+
+The chapter begins by establishing the conceptual distinction between typical performance measured by personality inventories and maximal performance measured by cognitive ability tests. While personality predicts behavioral tendencies under normal conditions, ability defines the ceiling of what someone can accomplish when fully engaged. High performance requires alignment: individuals must both want to engage in relevant behaviors and possess the capacity to execute them effectively. When preference and capacity conflict—such as analytical interest without quantitative ability—performance suffers despite apparent motivation.
+
+Central to multi-source integration is the DNV Logic or Penalty Function that detects and adjusts for preference-capacity conflicts. This sophisticated algorithmic feature prevents overly optimistic predictions when personality suggests engagement but ability limits effective execution. Through detailed validity examples, mathematical formulations, and practical applications, the chapter demonstrates how intelligent integration of multiple predictors produces the substantial validity improvements that justify comprehensive assessment strategies.
+
+## Theoretical Foundation: Preference vs. Power
 
 **The Dual Nature of Competency Prediction:**
 
@@ -52,7 +58,7 @@ High performance requires alignment of both vectors:
 - Verify Numerical Reasoning: Sten 8 (strong quantitative capacity)
 - **Prediction:** Moderated potential; has capacity but unlikely to voluntarily engage in analytical tasks
 
-## 36.2 Validity Improvement Examples: Empirical Evidence
+## Validity Improvement Examples: Empirical Evidence
 
 **Meta-Analytic Foundation:**
 
@@ -118,7 +124,7 @@ For Analyzing and Interpreting:
 
 This represents a 149% increase in explained variance.
 
-## 36.3 Ability as Cognitive Moderator
+## Ability as Cognitive Moderator
 
 **Moderation Concept:**
 
@@ -193,7 +199,7 @@ END IF
 
 This logic acknowledges that personality preferences alone cannot overcome cognitive capacity limitations.
 
-## 36.4 The Penalty Function: Addressing Preference-Ability Conflicts
+## The Penalty Function: Addressing Preference-Ability Conflicts
 
 ![Figure 36.1: Cognitive ability as a moderator of personality-competency relationships](/psychometric-guide/images/Figure_36_01.png)
 
@@ -265,7 +271,7 @@ The penalty function:
 2. **Binary Logic:** May not capture gradual degradation of effectiveness
 3. **Context Dependency:** Some roles may compensate for ability limitations through other means (e.g., software tools, team support)
 
-## 36.5 Weighted Formulas Integrating Both Sources
+## Weighted Formulas Integrating Both Sources
 
 **Regression-Based Weighting:**
 

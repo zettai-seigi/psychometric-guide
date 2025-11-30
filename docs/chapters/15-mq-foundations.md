@@ -8,7 +8,13 @@ permalink: /chapters/15-mq-foundations/
 
 # Chapter 15: MQ Theoretical Foundations
 
----
+## Introduction
+
+While personality and ability predict what people can do and how they prefer to work, motivation addresses the fundamental question of what energizes sustained performance. The Motivation Questionnaire represents SHL's systematic measurement of workplace drivers, grounded in content theories of motivation that identify specific needs and values. This chapter explores the theoretical foundations underlying the MQ's 18 dimensions, revealing how classical motivation theories inform modern assessment practice.
+
+Understanding motivational measurement requires distinguishing it from personality assessment. Personality traits describe typical behavioral style—how someone characteristically approaches work situations. Motivation describes what makes work satisfying or frustrating—which conditions increase engagement versus triggering disengagement. While personality is relatively stable across contexts, motivation is inherently context-dependent: the same individual thrives when their drivers align with job characteristics but withers when motivators are absent. This person-environment fit perspective positions the MQ as a tool for predicting engagement, retention, and sustained performance.
+
+The chapter synthesizes three major theoretical frameworks—McClelland's Achievement/Power/Affiliation needs, Herzberg's Two-Factor Theory distinguishing hygiene factors from motivators, and Self-Determination Theory's emphasis on autonomy, competence, and relatedness. Together, these theories provide the conceptual foundation for the MQ's comprehensive coverage of workplace motivation, from extrinsic rewards to intrinsic interest to relational needs.
 
 ## Theoretical Grounding and Purpose
 

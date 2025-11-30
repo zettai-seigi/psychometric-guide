@@ -8,6 +8,14 @@ permalink: /chapters/28-algorithms/
 
 # Competency Prediction Algorithms
 
+## Introduction
+
+The transformation of raw assessment scores into competency predictions represents one of psychometric assessment's most sophisticated technical challenges. This chapter examines the mathematical algorithms underlying SHL's competency prediction system, revealing how weighted linear combinations of personality traits and cognitive abilities—calibrated through extensive validation research—produce the competency scores appearing in Universal Competency Reports. Understanding these algorithms enables practitioners to appreciate the scientific rigor behind seemingly simple numerical outputs and to explain assessment logic to technical stakeholders.
+
+The core algorithm structure is a multiple regression equation where each competency score represents a weighted sum of relevant predictors. Different OPQ traits receive different weights (some positive, some negative) for each competency, reflecting empirical relationships established through validation research correlating trait patterns with supervisor competency ratings. For competencies with cognitive components, Verify ability scores enter the equation with weights typically exceeding personality weights. The chapter explores these formulas in detail, using concrete examples to demonstrate how algorithmic predictions translate trait configurations into performance forecasts.
+
+Beyond basic weighted sums, the algorithms incorporate sophisticated refinements including the DNV Logic that detects and adjusts for preference-capacity conflicts, moderator terms capturing trait interactions, and penalty functions preventing unrealistic predictions. The chapter examines algorithm optimization through machine learning applications that continuously refine weights as validation databases expand, competitive differentiation arising from SHL's algorithmic sophistication, and practical implications for report interpretation and organizational decision-making. This technical depth distinguishes scientific assessment from superficial measurement lacking empirical foundations.
+
 ### The Competency Prediction Challenge
 
 The Universal Competency Framework defines 20 workplace competencies (e.g., Analyzing & Interpreting, Leading & Deciding, Adapting & Coping) that predict job performance. But how do we translate raw assessment scores—32 OPQ personality traits, 3 Verify ability scores, 18 MQ motivation dimensions—into a single, interpretable competency score?
